@@ -1,0 +1,27 @@
+#############################################,,,
+# Title : Dickinson QmFLt,,,
+# Description : data for drawing the Dickinson QmFLt ternary diagram fields (lines) using ggtern package,,,
+# Date : 05/08/2014,,,
+# Author : Jérémy Ragusa,,,
+#############################################,,,
+# Comment :,,,
+# Values reported from Dickinson et al.(1983) using WebPlotDigitizer (http://arohatgi.info/WebPlotDigitizer/beta/) for complementary data,,,
+# x = F y = Qm z = Lt,,,
+#############################################,,,
+x,y,z,line
+0,11,89,1
+77,23,0,1
+19.248,13.663,67.089,2
+13,87,0,2
+20,0,80,3
+12.816,12.676,74.508,3
+43,0,57,4
+15.798,54.751,29.45,4
+15.798,54.751,29.45,5
+58.386,19.674,21.94,5
+14.099,73.137,12.765,6
+47,53,0,6
+14.855,63.849,21.296,7
+0,71,29,7
+17.514,33.098,49.388,8
+0,42,58,8

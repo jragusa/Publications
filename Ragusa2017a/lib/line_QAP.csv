@@ -1,0 +1,25 @@
+#############################################,,,
+# Title : classification of igneous rocks (feldspathoids excluded),,,
+# Description : data for creation of igneous rocks classification domains using Ternary.R and ggtern package,,,
+# Date : 25/11/2014,,,
+# Author : Jérémy Ragusa,,,
+#############################################,,,
+# Comment :,,,
+# Values reported using WebPlotDigitizer (http://arohatgi.info/WebPlotDigitizer/beta/),,,
+# x = A y = Q z = P,,,
+#############################################,,,
+x,z,y,line
+40,60,0,H1
+0,60,40,H1
+80,20,0,H2
+0,20,80,H2
+95,5,0,H3
+0,5,95,H3
+90,0,10,V1
+36,60,4,V1
+65,0,35,V2
+26,60,14,V2
+35,0,65,V3
+14,60,26,V3
+10,0,90,V4
+4,60,36,V4
