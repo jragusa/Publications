@@ -1,13 +1,14 @@
 # template file from https://github.com/github/gitignore
 
 # Others files
-data/GarnetGeoch.xlsx
-data/HM_master.ods
-figs/caron.png
-figs/*.pdf
-figs/Fig5.*
-figs/Fig6.*
-graphs/*.pdf
+Ragusa2017/data/GarnetGeoch.xlsx
+Ragusa2017/data/HM_master.ods
+Ragusa2017/figs/caron.png
+Ragusa2017/figs/*.pdf
+Ragusa2017/figs/Fig5.*
+Ragusa2017/figs/Fig6.*
+Ragusa2017/graphs/*.pdf
+Ragusa2017/Ragusa2017a.Rproj
 
 # History files
 .Rhistory
