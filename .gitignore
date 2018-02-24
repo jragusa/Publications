@@ -1,5 +1,14 @@
 # template file from https://github.com/github/gitignore
 
+# Others files
+data/GarnetGeoch.xlsx
+data/HM_master.ods
+figs/caron.png
+figs/*.pdf
+figs/Fig5.*
+figs/Fig6.*
+graphs/*.pdf
+
 # History files
 .Rhistory
 .Rapp.history
@@ -16,12 +25,12 @@
 # Output files from R CMD check
 /*.Rcheck/
   
-  # RStudio files
-  .Rproj.user/
-  .Rproj
+# RStudio files
+.Rproj.user/
+.Rproj
   
-  # produced vignettes
-  vignettes/*.html
+# produced vignettes
+vignettes/*.html
 vignettes/*.pdf
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
@@ -29,9 +38,8 @@ vignettes/*.pdf
 
 # knitr and R markdown default cache directories
 /*_cache/
-  /cache/
+/cache/
   
-  # Temporary files created by R markdown
-  *.utf8.md
+# Temporary files created by R markdown
+*.utf8.md
 *.knit.md
-.Rproj.user
