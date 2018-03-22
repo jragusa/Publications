@@ -1,4 +1,5 @@
 figs/*.pdf
+figs/caron.png
 figs/Fig5.*
 figs/Fig6.*
 figs/Fig24_old.svg
@@ -6,7 +7,6 @@ graphs/*.pdf
 graphs/Fig12_old.svg
 photo/
 
-*.png
 *.eps
 *.xlsx
 *.ods

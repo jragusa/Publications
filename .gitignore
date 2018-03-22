@@ -63,3 +63,4 @@ vignettes/*.pdf
 # Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
 *.blg
+.Rproj.user
