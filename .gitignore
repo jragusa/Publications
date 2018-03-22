@@ -1,16 +1,20 @@
 # template file from https://github.com/github/gitignore
 
-# Others files
-Ragusa2017/data/GarnetGeoch.xlsx
-Ragusa2017/data/HM_master.ods
-Ragusa2017/doc/*.doc
-Ragusa2017/figs/caron.png
-Ragusa2017/figs/*.pdf
-Ragusa2017/figs/Fig5.*
-Ragusa2017/figs/Fig6.*
-Ragusa2017/graphs/*.pdf
-Ragusa2017/Ragusa2017a.Rproj
+Ragusa2017a/figs/*.pdf
+Ragusa2017a/figs/Fig5.*
+Ragusa2017a/figs/Fig6.*
+Ragusa2017a/figs/Fig24_old.svg
+Ragusa2017a/graphs/*.pdf
+Ragusa2017a/graphs/Fig12_old.svg
+Ragusa2017a/photo
 
+*.png
+*.eps
+*.xlsx
+*.ods
+*.doc
+
+## R documents
 # History files
 .Rhistory
 .Rapp.history
@@ -29,7 +33,7 @@ Ragusa2017/Ragusa2017a.Rproj
   
 # RStudio files
 .Rproj.user/
-.Rproj
+*.Rproj
   
 # produced vignettes
 vignettes/*.html
@@ -45,3 +49,17 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+## TeX documents
+# Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.tex.backup
+
+# Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.blg
