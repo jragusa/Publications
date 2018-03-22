@@ -1,10 +1,10 @@
-Ragusa2017a/figs/*.pdf
-Ragusa2017a/figs/Fig5.*
-Ragusa2017a/figs/Fig6.*
-Ragusa2017a/figs/Fig24_old.svg
-Ragusa2017a/graphs/*.pdf
-Ragusa2017a/graphs/Fig12_old.svg
-Ragusa2017a/photo/
+figs/*.pdf
+figs/Fig5.*
+figs/Fig6.*
+figs/Fig24_old.svg
+graphs/*.pdf
+graphs/Fig12_old.svg
+photo/
 
 *.png
 *.eps
