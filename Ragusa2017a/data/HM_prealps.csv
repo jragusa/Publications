@@ -1,0 +1,132 @@
+#############################################,,,,,,,,,,,,,,,,,,,,,,
+# Title : Alpine flysch heavy minerals,,,,,,,,,,,,,,,,,,,,,,
+# Subject : heavy minera countingl from alpine flyschs,,,,,,,,,,,,,,,,,,,,,,
+# Author : Jérémy Ragusa,,,,,,,,,,,,,,,,,,,,,,
+# Date : 8/10/2015,,,,,,,,,,,,,,,,,,,,,,
+#############################################,,,,,,,,,,,,,,,,,,,,,,
+# Ant = Anatase ; Ap = Apatite ; Brk = Brookite ; Ep = Epidote ; Grt = Garnet ; Mnz = Monazite ; Rt = Rutile ; Sp = Sphalérite ; Spl = Chrome Spinelle ; St = Staurolite ; Ttn = TiO2 group ; Tur = Tourmaline ; Zrn = Zircon,,,,,,,,,,,,,,,,,,,,,,
+# TiO2 group includes titanite and sphene and also rutile grains in some papers (check NA in rutile),,,,,,,,,,,,,,,,,,,,,,
+# TCI = Tourmaline Color Index (Füchtbauer1964),,,,,,,,,,,,,,,,,,,,,,
+#############################################,,,,,,,,,,,,,,,,,,,,,,
+# Butler2011 : Zi includes Mz ; Br includes An ; GPS location available,,,,,,,,,,,,,,,,,,,,,,
+# Winkler1985a : rutile includes into TiO2 group. Corroded grains with high relief which are not optically determined has been considered as TiO2 group. Other grains includes : staurolite ; spinel and hornblend,,,,,,,,,,,,,,,,,,,,,,
+#############################################,,,,,,,,,,,,,,,,,,,,,,
+source,nappe,unit,formation,location,sample,Ant,Ap,Brk,Ep,Grt,Mnz,Rt,Sp,St,Spl,Ttn,Tur,Zrn,others,total,TCI,remarks
+Flück1973,Gets,Hundsrück serie,,Gets,,,58,,,0,,,0,0,1,8,16,16,1,100,,
+Flück1973,Gets,Hundsrück serie,,Pointe de Chéry,,,55,,,0,,,0,0,1,8,22,14,0,100,,
+Flück1973,Gets,Hundsrück serie,,Hundsrück,,,59,,,0,,,0,0,1,8,14,17,1,100,,
+Flück1973,Gets,Hundsrück serie,,Hundsrück Top,,,41,,,0,,,0,0,1,14,22,21,1,100,,
+Flück1973,Gets,Hundsrück serie,,Hundsrück Erbetlaub,,,63,,,0,,,0,0,1,7,13,16,0,100,,
+Flück1973,Dranse,Plattenflysch,,Le Ruth,,,6,,,3,,,0,0,0,13,38,40,0,100,,
+Flück1973,Dranse,Plattenflysch,,Weissenburg,,,6,,,1,,,0,0,1,16,36,38,2,100,,
+Flück1973,Simme,Weissenburg,,Weissenburg,,,8,,,0,,,0,0,43,12,16,20,1,100,,Manche conglomerate
+Flück1973,Simme,Manche,,Manche,,,0,,,0,,,0,0,66,9,13,9,3,100,,
+Flück1973,Simme,Manche,,Klberhöni,,,0,,,0,,,0,0,65,9,14,8,4,100,,
+Flück1973,Simme,Manche,,Garstatt,,,5,,,0,,,0,0,67,6,13,8,0,99,,
+Flück1973,Simme,Manche,,Puntel,,,0,,,0,,,0,0,66,9,13,9,3,100,,
+Flück1973,Simme,Mocausa,,Mocausa,,,0,,,0,,,0,0,75,4,9,9,3,100,,
+Flück1973,Simme,Mocausa,,Rodomont,,,0,,,0,,,0,0,77,3,9,9,2,100,,
+Flück1973,Simme,Mocausa,,Brechgraben II,,,0,,,0,,,0,0,77,5,9,7,2,100,,
+Flück1973,Simme,Mocausa,,Brechgraben I,,,0,,,0,,,0,0,73,5,12,9,1,100,,
+Flück1973,Simme,Mocausa,,Oeygraben,,,0,,,0,,,0,0,75,4,7,12,2,100,,
+Flück1973,Simme,Lamperenhubel,,Lamperenhubel,,,5,,,0,,,10,0,14,11,36,23,1,100,,
+Flück1973,Simme,Fouyet,,Fouyet,,,28,,,0,,,0,0,15,10,24,23,0,100,,
+Flück1973,Brèche,Flysch,,Oeschseite,,,11,,,0,,,0,0,0,10,45,34,0,100,,
+Flück1973,Brèche,Flysch,,Moosbach,,,2,,,0,,,0,0,0,11,52,35,0,100,,
+Flück1973,Brèche,Flysch,,Seefluh,,,4,,,0,,,0,0,0,17,54,25,0,100,,
+Flück1973,Médianes,Flysch,Giswil,Giswil,,,6,,,32,,,0,0,0,6,24,27,5,100,,
+Flück1973,Médianes,Flysch,Externe,Estavannens,,,6,,,7,,,0,4,0,14,30,36,3,100,,
+Flück1973,Médianes,Flysch,Externe,Cuvigne Derrey,,,4,,,32,,,0,0,7,19,27,11,0,100,,
+Flück1973,Médianes,Flysch,Externe,Stockensee – Mulde,,,10,,,33,,,0,0,1,12,26,18,0,100,,
+Flück1973,Médianes,Flysch,Externe,W'bg. - Mursbrunnen,,,3,,,2,,,0,0,0,15,45,33,2,100,,
+Flück1973,Médianes,Flysch,Externe,Bäderhorn,,,9,,,13,,,0,0,0,10,36,30,2,100,,
+Flück1973,Médianes,Flysch,Interne,Fromatt,,,5,,,0,,,0,0,0,19,37,38,1,100,,
+Flück1973,Médianes,Flysch,Interne,Brüüscht,,,7,,,0,,,0,0,0,14,40,37,2,100,,
+Stuijvenberg1979,Gurnigel,Gurnigel,Paleocene,Louetli,Louetli 45,6,0,6,2,13,1,3,,6,,0,50,26,,113,"1,27",
+Stuijvenberg1979,Gurnigel,Gurnigel,Paleocene,Louetli,Louetli 43,10,2,1,0,4,6,10,,0,,2,33,36,,104,"0,74",
+Stuijvenberg1979,Gurnigel,Gurnigel,Paleocene,Louetli,Louetli 37,2,2,2,1,10,0,8,,2,,0,56,27,,110,"0,34",
+Stuijvenberg1979,Gurnigel,Gurnigel,Paleocene,Louetli,Louetli 5,2,0,3,2,8,3,14,,0,,0,44,32,,108,"1,75",
+Stuijvenberg1979,Gurnigel,Gurnigel,Paleocene,Schüpfenflue,Schüpfenflue,5,2,0,0,6,0,6,,0,,2,74,11,,106,1,
+Stuijvenberg1979,Gurnigel,Gurnigel,Paleocene,Kurhaus,Kurhaus 4,1,10,5,3,27,8,9,,10,,1,30,23,,127,"1,14",
+Stuijvenberg1979,Gurnigel,Gurnigel,Paleocene,Kurhaus,Kurhaus 3,2,24,5,4,26,0,1,,10,,2,32,20,,126,"1,13",
+Stuijvenberg1979,Gurnigel,Gurnigel,Paleocene,Einberg,Einberg 9,0,66,1,2,60,0,3,,2,,0,9,19,,162,"0,8",
+Stuijvenberg1979,Gurnigel,Gurnigel,Paleocene,Einberg,Einberg 3,0,33,1,0,57,0,3,,20,,0,4,7,,125,3,
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Grätli,Grätli II/2,4,0,0,1,8,3,0,,0,,0,12,23,,51,1,Southern area
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Grätli,Grätli I/16,3,2,0,2,11,5,7,,0,,1,10,38,,79,"3,5",Southern area
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Grätli,Grätli I/14,0,2,2,0,3,0,0,,0,,0,22,17,,46,1,Southern area
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Äbe,Äbe IV/15,1,4,4,0,3,0,2,,0,,0,20,31,,65,"0,43",Southern area
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Äbe,Äbe IV/16,0,1,3,0,10,4,1,,1,,0,19,38,,77,"0,73",Southern area
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Stäck,Stäck 37,1,0,2,1,19,2,0,,2,,0,48,21,,96,"0,6",Southern area
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Stäck,Stäck 35,2,12,6,0,6,9,5,,2,,0,29,35,,106,"0,38",Southern area
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Stäck,Stäck 27,0,0,12,0,3,2,4,,0,,0,59,23,,103,"0,9",Southern area
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Stäck,Stäck 20,4,0,2,0,31,8,7,,0,,0,37,42,,131,"1,47",Southern area
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Stäck,Stäck 15,2,0,6,0,10,4,2,,0,,0,67,19,,110,"0,63",Southern area
+Stuijvenberg1979,Gurnigel,Gurnigel,Maastrichtian,Bärgli,Bärgli I/7,14,0,3,4,13,0,11,,1,,0,48,19,,113,"0,66",
+Stuijvenberg1979,Gurnigel,Gurnigel,Maastrichtian,Bärgli,Bärgli I/4,2,41,2,0,77,4,0,,0,,2,19,30,,177,"1,71",
+Stuijvenberg1979,Gurnigel,Gurnigel,Maastrichtian,Bärgli,Bärgli II/2,16,1,0,1,46,0,7,,0,,2,33,40,,146,"0,43",
+Stuijvenberg1979,Gurnigel,Gurnigel,Maastrichtian,Bärgli,Bärgli II/1,9,2,0,0,28,0,2,,1,,0,33,8,,83,"0,83",
+Stuijvenberg1979,Gurnigel,Gurnigel,Maastrichtian,Hellstätt,Hellstätt 27,0,0,1,0,61,0,16,,0,,1,68,14,,161,"1,16",
+Stuijvenberg1979,Gurnigel,Gurnigel,Maastrichtian,Hellstätt,Hellstätt 1,0,0,3,0,6,7,1,,2,,2,37,48,,106,"0,85",
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Selital,Selital 42,5,20,0,2,56,3,3,,7,,0,27,33,,156,"1,45",Eocene lowermost
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Selital,Selital 32,8,6,0,3,17,0,6,,4,,2,55,16,,117,"0,62",Eocene lowermost
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Selital,Selital 16,0,39,0,1,67,0,0,,2,,0,40,18,,167,1,Eocene lowermost
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Selital,Selital 8,3,0,3,1,32,0,2,,4,,1,47,9,,102,"0,52",Eocene lowermost
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Schwarz,Schwarz 31,0,19,1,3,54,1,3,,0,,1,47,17,,146,"1,47",Eocene lowermost
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Schwarz,Schwarz 30,6,8,9,0,27,7,2,,11,,0,34,23,,127,1,Eocene lowermost
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Schwarz,Schwarz 18,1,0,13,0,31,4,1,,12,,0,61,8,,131,"0,74",Eocene lowermost
+Stuijvenberg1979,Gurnigel,Gurnigel,Eocene,Schwarz,Schwarz 6,8,8,2,7,16,0,1,,7,,1,43,23,,116,"1,39",Eocene lowermost
+Butler2011,Gurnigel,Schlieren,Schlieren Sandstein upper ,Blattligraben,11EB07,,"36,84210526","7,07803993",,"9,89110708",,"13,52087114",,,,,"16,8784029","15,78947368",,100,,Bed Wi 1026 of Winkler1983
+Butler2011,Gurnigel,Schlieren,Schoni Sandstein,Grosse Schliere river,08EB07,,"3,99636694","9,80926431",,"9,99091735",,"12,17075386",,,,,"49,86376022","14,16893733",,100,,Bed Wi 247 of Winkler1983
+Butler2011,Gurnigel,Schlieren,Tonstein Schichten upper,Chistenwald above Guber quarry,03EB07,,"35,87647593","8,26521344",,"20,07266122",,"7,81108084",,,,,"11,98910082","15,98546776",,100,,Bed Wi 737 of Winkler1983
+Butler2011,Gurnigel,Schlieren,Guber Sandstein,"Grosse Schliere valley, dust road to Alpe Schoni",07EB07,,"4,63215259","11,8982743",,"9,99091735",,"5,99455041",,,,,"53,95095368","13,53315168",,100,,Bed Wi 40 of Winkler1983
+Butler2011,Gurnigel,Schlieren,Guber Sandstein,Upper Guber quarry,01EB07,,"8,52221215","18,85766092",,"15,04986401",,"6,61831369",,,,,"37,89664551","13,05530372",,100,,"Mudchip-bearing sandstone below channel-fill (level c on fig,21 of Winkler1983)"
+Butler2011,Gurnigel,Schlieren,Basal Schlieren Flysch upper,Grosse Schliere river,10EB07,,"43,01270417","5,8076225",,"5,08166969",,"8,71143376",,,,,"23,32123412","14,06533575",,100,,
+Butler2011,Gurnigel,Schlieren,Basal Schlieren Flysch lower,Grosse Schliere river,05EB07,,"19,07356948","5,0862852",,"25,06811989",,"11,35331517",,,,,"18,43778383","20,98092643",,100,,
+Winkler1985a,Gurnigel,Wägital,Tertiary,,Wi 1381,,7,,,1,,,,,,38,37,17,0,100,,
+Winkler1985a,Gurnigel,Wägital,Tertiary,,Wi 1383,,9,,,9,,,,,,28,26,25,3,100,,
+Winkler1985a,Gurnigel,Wägital,Tertiary,,Wi 1621,,6,,,9,,,,,,23,19,34,2,93,,
+Winkler1985a,Gurnigel,Wägital,Tertiary,,Wi 1624,,0,,,19,,,,,,33,29,19,0,100,,
+Winkler1985a,Gurnigel,Wägital,Tertiary,,Wi 1633,,6,,,0,,,,,,31,14,49,0,100,,
+Winkler1985a,Gurnigel,Wägital,Tertiary,,Wi 1642,,1,,,39,,,,,,27,21,12,0,100,,
+Winkler1985a,Gurnigel,Wägital,Cretaceous,,Wi 1563,,12,,,28,,,,,,2,22,21,5,90,,
+Winkler1985a,Gurnigel,Wägital,Cretaceous,,Wi 1573,,9,,,16,,,,,,32,24,17,2,100,,
+Winkler1985a,Gurnigel,Wägital,Cretaceous,,Wi 1658,,0,,,6,,,,,,20,21,52,1,100,,
+Winkler1985a,Gurnigel,Wägital,Cretaceous,,Wi 1661,,6,,,77,,,,,,6,5,6,0,100,,
+Winkler1985a,Gurnigel,Wägital,Cretaceous,,Wi 1685,,13,,,29,,,,,,17,26,15,0,100,,
+Gasser1967,Gurnigel,Wägital,,,n = ?,,31,,,55,,,,,,2,6,6,,100,,from Winkler1985a
+Woletz1964,Gurnigel,Wägital,,,n = 8,,19,,,27,,,,,,8,7,39,,100,,from Winkler1985a
+Winkler1985a,Gurnigel,Schlieren,Basaler Schlieren Sandstein,Sternenegg,Wa 171,,18,,,3,,,,,,7,23,48,1,100,,
+Winkler1985a,Gurnigel,Schlieren,Basaler Schlieren Sandstein,Sternenegg,Wa 174,,9,,,12,,,,,,21,22,36,0,100,,
+Winkler1985a,Gurnigel,Schlieren,Basaler Schlieren Sandstein,Sternenegg,Wa 176,,4,,,2,,,,,,27,33,34,0,100,,
+Winkler1985a,Gurnigel,Schlieren,Trepsen,,Wa 178,,2,,,6,,,,,,17,28,47,0,100,,Includes into Schlieren Flysch
+Winkler1985a,Gurnigel,Schlieren,Trepsen,,Wa 180,,9,,,62,,,,,,20,6,1,2,100,,Includes into Schlieren Flysch
+Rad1972,Rhenodanubian,Zementergel,,,n = 4,,8,,,35,,,,,,2,28,27,0,100,,
+Rad1972,Rhenodanubian,Hällritz,,,n = 8,,21,,,40,,,,,,3,14,15,7,100,,
+Ackermann1984,Niesen,,Maastrichtian,,n = 89,,15,,,,,,,,,10,45,30,,100,,from Wildi1985
+Ackermann1984,Niesen,,Jurassic,,n = 3,,0,,,,,,,,,77,8,15,,100,,from Wildi1985
+Morel1980,Gurnigel,Niremont,Eocène middle,,n = 9,,63,,,22,,,,1,1,"2,5",4,6,,"99,5",,from Wildi1985
+Morel1980,Gurnigel,Niremont,Paléocène – Eocène lower,,n = 5,,29,,,16,,,,8,0,8,29,10,,100,,from Wildi1985
+Morel1980,Gurnigel,Niremont,Maastrichtian upper,,n = 3,,30,,,54,,,,4,1,"1,5",5,4,,"99,5",,from Wildi1985
+Rad1972,Rhenodanubian,Reiselsberger,,,n = 3,,2,,,95,,,,,,,2,"0,5",,"99,5",,from Wildi1985
+Winkler1983,Gurnigel,Schlieren,Schoni Sandstein upper,,n = 9,,6,,,12,,,,,,20,37,23,,98,,from Wildi1985
+Winkler1983,Gurnigel,Schlieren,Schoni Sandstein lower,,n = 9,,26,,,14,,,,,,15,28,17,,100,,from Wildi1985
+Winkler1983,Gurnigel,Schlieren,Tonstein Schichten upper,,n = 3,,33,,,14,,,,,,16,14,22,,99,,from Wildi1985
+Winkler1983,Gurnigel,Schlieren,Guber Sandstein,,n = 9,,7,,,11,,,,,,21,46,15,,100,,from Wildi1985
+Winkler1983,Gurnigel,Schlieren,Basal Schlieren Flysch (Maastrichtian),,n = 8,,30,,,12,,,,,,11,28,18,,99,,from Wildi1985
+Winkler1983,Gurnigel,Schlieren,Basal Schlieren Flysch (Paleocene),,n = 4,,13,,,23,,,,,,17,21,26,,100,,from Wildi1985
+Wildi1985,Gurnigel,Voirons,Voirons Sandstones,,n = 5,,3,,,32,,,,4,,15,13,33,,100,,incertaine location
+Wildi1985,Gurnigel,Voirons,Voirons Sandstones,,n = 3,,4,,,35,,,,17,,11,14,19,,100,,incertaine location
+Rad1972,Rhenodanubian,Blicherhorn,,Allgäu,n = 5,,5,,,80,,,,6,,"1,5",4,3,,"99,5",,from Wildi1985
+Rad1972,Rhenodanubian,Blicherhorn,,Oberbayern,n = 3,,12,,,74,,,,5,,"0,5",7,"1,5",,100,,from Wildi1985
+Freimoser1972,Rhenodanubian,Blicherhorn,,SE Bayern,n = 34,,"2,5",,,66,,,,3,,8,7,11,,"97,5",,from Wildi1985
+Fluck1973,Sarine,,,,n = 14,,4,,,4,,,,2,,,,35,,14,39,from Wildi1985
+Gasser1967,Vorarlberg,,Flysch,,,,"39,2715841716",,,"12,2807017544",,,,,,"8,7933220292","18,7463267333","20,9080653115",,100,,
+Gasser1967,Vaduz,,Flysch,,,,"18,3460447834",,,"4,7619047619",,,,,,"11,6236432972","17,4415762198","47,8268309377",,100,,
+Gasser1967,Niesen,,Flysch,,,,"55,2294130316",,,"0,9900990099",,,,,,"2,4812301864","13,6656586407","24,0817873926","3,5518117389",100,,
+Gasser1967,Gurnigel,Gurnigel,,,,,"6,5943068756",,,"7,4074074074",,,,,,"18,7292522032","24,7316105263","34,5342785568","8,0031444307",100,,
+Gasser1967,Gurnigel,Schlieren,,,,,"19,7674849582",,,"19,3548387097",,,,,,"10,1514271712","31,6073848029","14,496155636","4,622708722",100,,
+Gasser1967,Gurnigel,Habkern,,,,,"7,8797606887",,,"4,7619047619",,,,,,"8,3418454205","35,2522009825","31,0083175252","12,7559706211",100,,
+Gasser1967,Gurnigel,Wägital,,,,,"30,9971563503",,,"55,1569506726",,,,,,"1,8961483556","6,0149721249","5,9347724966",0,100,,
+Gasser1967,Médianes ?,,Flysch,,,,"7,6099493506",,,"1,9607843137",,,,,"63,1989368637","8,0612807783","7,3968206208","11,7722280728",0,100,,Upper Prealpine Flysch
+Gasser1967,Brèche ?,,Flysch,,,,"1,790052423",,,0,,,,,"21,506201253","11,2645441759","22,9382431914","36,5298555172","5,9711034395",100,,Upper Prealpine Flysch
+Gasser1967,Simme ?,,,,,,"2,4503610454",,,"0,9900990099",,,,,"58,5151322557","6,9299273315","11,2946329436","17,7268306877","2,1060471806","100,0130304543",,Simme s.s. ?
