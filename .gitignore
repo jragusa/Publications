@@ -1,18 +1,16 @@
 # template file from https://github.com/github/gitignore
-
-Ragusa2017a/figs/*.pdf
-Ragusa2017a/figs/Fig5.*
-Ragusa2017a/figs/Fig6.*
-Ragusa2017a/figs/Fig24_old.svg
-Ragusa2017a/graphs/*.pdf
-Ragusa2017a/graphs/Fig12_old.svg
-Ragusa2017a/photo
-
-*.png
-*.eps
-*.xlsx
-*.ods
-*.doc
+Allinges
+Cogulu1961
+Kindler2014
+Ospina-Ostios2013
+Ragusa2015
+Ragusa2016x
+Ragusa2017c
+Ragusa2017e
+Ragusa2018a
+Ragusa2018b
+Ragusa2018e
+Ragusa2018f
 
 ## R documents
 # History files
