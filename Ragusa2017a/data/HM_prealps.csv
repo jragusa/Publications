@@ -4,12 +4,12 @@
 # Author : Jérémy Ragusa,,,,,,,,,,,,,,,,,,,,,,
 # Date : 8/10/2015,,,,,,,,,,,,,,,,,,,,,,
 #############################################,,,,,,,,,,,,,,,,,,,,,,
-# Ant = Anatase ; Ap = Apatite ; Brk = Brookite ; Ep = Epidote ; Grt = Garnet ; Mnz = Monazite ; Rt = Rutile ; Sp = Sphalérite ; Spl = Chrome Spinelle ; St = Staurolite ; Ttn = TiO2 group ; Tur = Tourmaline ; Zrn = Zircon,,,,,,,,,,,,,,,,,,,,,,
+# Ant = Anatase , Ap = Apatite , Brk = Brookite , Ep = Epidote , Grt = Garnet , Mnz = Monazite , Rt = Rutile , Sp = Sphalérite , Spl = Chrome Spinelle , St = Staurolite , Ttn = TiO2 group , Tur = Tourmaline , Zrn = Zircon,,,,,,,,,,
 # TiO2 group includes titanite and sphene and also rutile grains in some papers (check NA in rutile),,,,,,,,,,,,,,,,,,,,,,
 # TCI = Tourmaline Color Index (Füchtbauer1964),,,,,,,,,,,,,,,,,,,,,,
 #############################################,,,,,,,,,,,,,,,,,,,,,,
-# Butler2011 : Zi includes Mz ; Br includes An ; GPS location available,,,,,,,,,,,,,,,,,,,,,,
-# Winkler1985a : rutile includes into TiO2 group. Corroded grains with high relief which are not optically determined has been considered as TiO2 group. Other grains includes : staurolite ; spinel and hornblend,,,,,,,,,,,,,,,,,,,,,,
+# Butler2011 : Zi includes Mz , Br includes An , GPS location available,,,,,,,,,,,,,,,,,,,,
+# Winkler1985a : rutile includes into TiO2 group. Corroded grains with high relief which are not optically determined has been considered as TiO2 group. Other grains includes : staurolite , spinel and hornblend,,,,,,,,,,,,,,,,,,,,,
 #############################################,,,,,,,,,,,,,,,,,,,,,,
 source,nappe,unit,formation,location,sample,Ant,Ap,Brk,Ep,Grt,Mnz,Rt,Sp,St,Spl,Ttn,Tur,Zrn,others,total,TCI,remarks
 Flück1973,Gets,Hundsrück serie,,Gets,,,58,,,0,,,0,0,1,8,16,16,1,100,,
@@ -127,6 +127,6 @@ Gasser1967,Gurnigel,Gurnigel,,,,,"6,5943068756",,,"7,4074074074",,,,,,"18,729252
 Gasser1967,Gurnigel,Schlieren,,,,,"19,7674849582",,,"19,3548387097",,,,,,"10,1514271712","31,6073848029","14,496155636","4,622708722",100,,
 Gasser1967,Gurnigel,Habkern,,,,,"7,8797606887",,,"4,7619047619",,,,,,"8,3418454205","35,2522009825","31,0083175252","12,7559706211",100,,
 Gasser1967,Gurnigel,Wägital,,,,,"30,9971563503",,,"55,1569506726",,,,,,"1,8961483556","6,0149721249","5,9347724966",0,100,,
-Gasser1967,Médianes ?,,Flysch,,,,"7,6099493506",,,"1,9607843137",,,,,"63,1989368637","8,0612807783","7,3968206208","11,7722280728",0,100,,Upper Prealpine Flysch
-Gasser1967,Brèche ?,,Flysch,,,,"1,790052423",,,0,,,,,"21,506201253","11,2645441759","22,9382431914","36,5298555172","5,9711034395",100,,Upper Prealpine Flysch
-Gasser1967,Simme ?,,,,,,"2,4503610454",,,"0,9900990099",,,,,"58,5151322557","6,9299273315","11,2946329436","17,7268306877","2,1060471806","100,0130304543",,Simme s.s. ?
+Gasser1967,Médianes?,,Flysch,,,,"7,6099493506",,,"1,9607843137",,,,,"63,1989368637","8,0612807783","7,3968206208","11,7722280728",0,100,,Upper Prealpine Flysch
+Gasser1967,Brèche?,,Flysch,,,,"1,790052423",,,0,,,,,"21,506201253","11,2645441759","22,9382431914","36,5298555172","5,9711034395",100,,Upper Prealpine Flysch
+Gasser1967,Simme?,,,,,,"2,4503610454",,,"0,9900990099",,,,,"58,5151322557","6,9299273315","11,2946329436","17,7268306877","2,1060471806","100,0130304543",,Simme s.s. ?

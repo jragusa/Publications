@@ -1,8 +1,8 @@
 # 1 - files ####
 flysch_composition <- read.csv("/home/jeremy/UniGE/Git/Prealpine flyschs/flysch_modalcomposition.csv", header = TRUE,  comment.char = "#", dec = ",")
 flysch_ternary <- read.csv("/home/jeremy/UniGE/Git/Prealpine flyschs/flysch_modalternary.csv", header = TRUE,  comment.char = "#", dec = ",")
-prealps <- read.csv("/home/jeremy/UniGE/Publication/Ragusa2015b/data/HM_prealps.csv", header = TRUE, comment.char = "#", dec = ",")
-upn <- read.csv("/home/jeremy/UniGE/Publication/Ragusa2015b/data/Caron1989_UPN.csv", header = TRUE, comment.char = "#", dec = ",")
+prealps <- read.csv("/home/jeremy/UniGE/Publications/Ragusa2017a/data/HM_prealps.csv", header = TRUE, comment.char = "#", dec = ",")
+upn <- read.csv("/home/jeremy/UniGE/Publications/Ragusa2017a/data/Caron1989_UPN.csv", header = TRUE, comment.char = "#", dec = ",")
 
 # 2 - Modal composition ####
 flysch_composition <- mutate(flysch_composition,

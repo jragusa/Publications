@@ -271,6 +271,7 @@ prealps.sorted <- as.data.frame(rbind(Gets = HM.moy.nappe[["Gets"]],
 
 prealps.sorted <- cbind(units = rownames(prealps.sorted), prealps.sorted)
 prealps.sorted <- transform(prealps.sorted, units = factor(units, levels = list.flysch))
+
 prealps.melt <- melt(prealps.sorted, id.vars="units")
 
 ggplot(prealps.melt, aes(units, value, fill=variable)) +
