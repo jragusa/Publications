@@ -1,0 +1,360 @@
+sample,location,bed,mutti,observations
+JR1,carrière inférieure de Saxel,17,F5,
+JR2,carrière de Bons,11b,F9,
+JR3,carrière de Bons,5,F8,
+JR4,carrière de Bons,7,F8,
+JR5,carrière de Bons,17,F8,
+JR6,carrière de Bons,17,F8,
+JR7,carrière de Bons,43,F8,
+JR8,carrière de Bons,61,F8,
+JR9,carrière de Bons,62,F9,
+JR10,carrière de Bons,67,F9,
+JR11,carrière inférieure de Saxel,2,F4,
+JR12,carrière inférieure de Saxel,0,F8,
+JR13,carrière inférieure de Saxel,18,F5,
+JR14,carrière inférieure de Saxel,15c,F5,
+JR15,carrière inférieure de Saxel,15c,F5,
+JR16,carrière supérieure de Saxel,1,F8,
+JR17a,carrière supérieure de Saxel,7,F9,
+JR18,carrière supérieure de Saxel,13,F8,
+JR19,carrière supérieure de Saxel,3g,F8,
+JR20a,carrière supérieure de Saxel,17,F8,
+JR21,carrière supérieure de Saxel,18b,F9,
+JR22,Petite carrière Allinges,0,F8,base
+JR23,Petite carrière Allinges,0,F8,avant les lamines
+JR24,Sentier du Château des Allinges,0,F5,
+JR25,Sentier du Château des Allinges,0,F5,
+JR26,Sentier du Château des Allinges,0,F5,
+JR27,Sentier du Château des Allinges,0,NA,claste
+JR28,Maladière,0,NA,claste
+JR29,Château des Allinges,0,NA,claste
+JR30,Maladière,0,NA,claste
+JR31,Maladière,0,NA,claste
+JR32,torrent de Saxel,0,F9,
+JR33,D20 - Talus 902,0,NA,claste
+JR34,D20 - Talus 902,0,NA,claste
+JR35,D20 - Talus 902,0,NA,claste
+JR36,carrière inférieure de Saxel,0,F5,remblais
+JR37,carrière inférieure de Saxel,0,F5,remblais
+JR38,carrière de Bons,0,F9,remblais
+JR39,torrent de Saxel,80,F8,
+JR40,torrent de Saxel,84,F8,
+JR41,torrent de Saxel,70,F8,
+JR42,torrent de Saxel,69,F8,
+JR43,Supersaxel,0,F9,remblais
+JR44,torrent de Saxel,0,NA,marnes
+JR45,carrière inférieure de Saxel,0,NA,remblais
+JR46,torrent de Saxel,0,NA,claste
+JR47,la Salle 1,0,F2,
+JR48,route des Moxstères,8d,F9,
+JR49,Conglomérat du Sigxl,0,NA,claste
+JR50,Conglomérat du Sigxl,0,NA,claste
+JR51,Crête des Voirons 1,0,F8,
+JR52,pointe de Brantaz,114,F2,
+JR53,torrent de Saxel,56a,F5,
+JR54,torrent de Saxel,56a,F8,
+JR55,torrent de Saxel,4c,F9,
+JR56,torrent de Saxel,4b,F9,
+JR57,torrent de Saxel,1,F9,
+JR58,Saxel Eglise,0,F5,
+JR59,la Salle 2,0,F2,
+JR60,D20 - Bovet/Rollin,2,F8,
+JR61,D20 - Bovet/Rollin,1,F8,
+JR62,D20 - Bovet/Rollin,3,F9,
+JR63,torrent Chez le Merizier,0,F8,section en amont du pont
+JR64,ruisseau du Rafort,0,F2,
+JR65,torrent de Saxel,66,F9,
+JR66,torrent de Saxel,66,F9,
+JR67,torrent de Saxel,63,F8,
+JR68,torrent de Saxel,61,F8,
+JR69,torrent de Saxel,55,F8,
+JR70,torrent de Saxel,51,F9,
+JR71,torrent de Saxel,50,F9,
+JR72,torrent de Saxel,48,F8,
+JR73,torrent de Saxel,45,F8,
+JR74,torrent de Saxel,44b,F8,
+JR75,route de Supersaxel,8,F9,
+JR76,route de Supersaxel,5,F8,
+JR77b,torrent de Supersaxel,8,F9,
+JR78,torrent de Supersaxel,10,F9,
+JR79,torrent de Supersaxel,12d,F9,
+JR80,la Parire,0,F5,
+JR81,D20 - 820,0,NA,a refaire
+JR82,D20 - 820,0,NA,a refaire
+JR83,D20 - 820,0,NA,a refaire
+JR84,route des Moxstères,5a,F5,
+JR85,route des Moxstères,7,F5,
+JR86,route des Moxstères,10,F5,
+JR87,route des Moxstères,12,F9,
+JR88,Signal des Voirons ,0,F5,
+JR89,route des Moxstères,15,F2,
+JR90,le Planet,54,F2,
+JR91,le Planet,56,F8,
+JR92,le Planet,62,F5,
+JR93,torrent de Curseilles,0,NA,claste
+JR94,torrent de Curseilles,179,F5,
+JR95,torrent de Curseilles,175,F2,
+JR96,torrent de Curseilles,159,F8,
+JR97,torrent de Curseilles,160d,F9,
+JR98,torrent de Curseilles,163,F9,
+JR99,torrent de Curseilles,164,F2,
+JR100,torrent de Curseilles,167,F5,
+JR101,torrent de Curseilles,169,F9,
+JR102,Signal des Voirons ,0,F2,
+JR103,Signal des Voirons ,0,NA,a refaire
+JR104,Signal des Voirons ,0,NA,claste
+JR105,Crête des Voirons,0,F2,entre Signal des Voirons et Pointe de Brantaz
+JR106,Pralère,126,F2,
+JR107,la Roche aux Corbeaux,155,F5,
+JR108,torrent de Curseilles,181a,F2,
+JR109,torrent de Curseilles,182,F8,
+JR110,torrent de Curseilles,110,F2,
+JR111,torrent de Curseilles,202,F5,
+JR112,torrent de Curseilles,203,F9,
+JR113,torrent de Curseilles,205,F8,
+JR114,torrent de Curseilles,208,F9,
+JR115,torrent de Curseilles,213,F8,
+JR116,torrent de Curseilles,215,F5,
+JR117,torrent de Curseilles,223,F8,
+JR118,torrent de Curseilles,0,NA,marnes
+JR119,torrent de Curseilles,217,F2,
+JR120,torrent de Curseilles,229,F9,
+JR121,torrent de Curseilles,237,F9,
+JR122,torrent de Curseilles,252,F2,
+JR123,torrent de Curseilles,249,F8,
+JR124,torrent de Curseilles,248,F8,
+JR125,torrent de Curseilles,259,F5,
+JR126,torrent de Curseilles,284,F8,
+JR127,torrent de Curseilles,291,F2,
+JR128,torrent de Curseilles,292,F2,
+JR129,torrent de Curseilles,278,F5,
+JR130,torrent de Curseilles,295,F2,
+JR131,torrent de Curseilles,285b,F5,
+JR132,torrent de Curseilles,287,F8,
+JR133,torrent de Curseilles,0,NA,claste
+JR134,torrent de Curseilles,288,F5,
+JR135,torrent de Curseilles,290,F2,a refaire
+JR136,Burdignin,0,F5,
+JR137,Burdignin,0,F5,
+JR138,Burdignin,0,F5,
+JR139,xnt de la Combe Ecuer,0,F5,banc incliné
+JR140,Granges Gaillard 1,0,F5,
+JR141,Granges Gaillard 1,0,F5,
+JR142,D50,0,F5,
+JR143,D50,0,F5,
+JR144,la Coterie,0,F5,JR144bis site crete voirons 2
+JR145,Crête des Voirons 2,17,F5,
+JR146,Crête des Voirons 2,19,F4,
+JR147,Crête des Voirons 2,20,F5,
+JR148,Crête des Voirons 2,22,F8,
+JR149,Crête des Voirons 2,24,F5,
+JR150,Crête des Voirons 3,26,F9,
+JR151,Crête des Voirons 3,28,F9,
+JR152,Crête des Voirons 3,30,F9,
+JR153,Crête des Voirons 3,33,F8,
+JR154,Saut de la Pucelle,95b,F8,
+JR155,Saut de la Pucelle,96a,F8,
+JR156,Saut de la Pucelle,98b,F5,
+JR157,Saut de la Pucelle,98c,F5,
+JR158,Saut de la Pucelle,100,F8,
+JR159,Saut de la Pucelle,102b,F2,
+JR160,Crête des Voirons 4,50,F8,
+JR161,Crête des Voirons 4,43,F8,
+JR162,Crête des Voirons 4,37,F9,
+JR163,Crête des Voirons 6,106,F9,
+JR164,Crête des Voirons 6,108,F2,
+JR165,Crête des Voirons 5,53,F5,
+JR166,Crête des Voirons 5,56a,F5,
+JR167,Crête des Voirons 5,56b,F5,
+JR168,Crête des Voirons 5,56c,F5,
+JR169,Crête des Voirons 5,59,F8,
+JR170,Crête des Voirons 5,70,F9,
+JR171,Crête des Voirons 5,91b,F8,
+JR172,Crête des Voirons 5,94,F8,
+JR173,pointe de Brantaz,114,F2,
+JR174,pointe de Brantaz,0,NA,calcaire
+JR175,Pralère,120,F2,
+JR176,Pralère,125,F2,
+JR177,Pralère,0,NA,calcaire à granite rose
+JR178,Pralère,0,F5,cf lina
+JR179,Crête des Voirons 7,135,F8,
+JR180,Crête des Voirons 7,133,F2,
+JR184,la Roche aux Corbeaux,140,F2,
+JR185,la Roche aux Corbeaux,143,F8,
+JR186,la Roche aux Corbeaux,145,F2,
+JR187,la Roche aux Corbeaux,147a,F2,
+JR188,la Roche aux Corbeaux,147d,F2,
+JR189,la Roche aux Corbeaux,148,F5,
+JR190,la Roche aux Corbeaux,0,NA,a refaire
+JR203,la Moutonnière,85a,F2,
+JR204,la Moutonnière,83a,F5,
+JR205,la Moutonnière,82,F4,
+JR206,la Moutonnière,74,F5,
+JR207,la Moutonnière,71,F9,
+JR208,la Moutonnière,66,F5,
+JR209,la Moutonnière,65,F9,
+JR210,la Moutonnière,64,F5,
+JR211,torrent de Curseilles,0,NA,a refaire partir CgV
+JR212,la Moutonnière,0,F5,Cpt 2
+JR213,la Moutonnière,8,F9,
+JR214,la Moutonnière,18a,F5,
+JR215,la Moutonnière,31,F5,
+JR216,torrent de Curseilles,2,F8,
+JR217,torrent de Curseilles,3,F9,
+JR218,torrent de Curseilles,15,F8,
+JR219,torrent de Curseilles,25,F8,
+JR220,torrent de Curseilles,34e,F9,
+JR221,torrent de Curseilles,37,F9,
+JR222,torrent de Curseilles,43,F9,
+JR223,torrent de Curseilles,60,F8,
+JR224,torrent de la Molertaz,0,F5,sur le chemin après le pont
+JR225,torrent de la Molertaz,4,F8,
+JR226,torrent de la Molertaz,23a,F9,
+JR227,torrent de Curseilles,68,F9,
+JR228,torrent de Curseilles,69a,F9,
+JR229,torrent de Curseilles,73,F8,
+JR230,torrent de Curseilles,80e,F8,
+JR231,torrent de Curseilles,146,F2,
+JR232,torrent de Curseilles,232,F9,
+JR233,torrent de Curseilles,233,F9,
+JR234,torrent de Curseilles,98b,F9,
+JR235,torrent de Curseilles,104a,F8,
+JR236,torrent de Curseilles,117b,F5,
+JR237,Château de la Rochette,0,F5,
+JR238,la Renardière,0,F9,banc glauconieux
+JR239,la Renardière,0,F2,coupe de bois
+JR240,meulières de Grand Gueule,4b,F4,
+JR241,meulières de Grand Gueule,4c,F4,
+JR242,meulières à Vachat,0,F2,
+JR243,meulières à Vachat,0,NA,claste
+JR244,meulières à Vachat,0,NA,claste
+JR245,meulières à Vachat,0,NA,claste
+JR246,meulières à Vachat,0,NA,claste
+JR247,meulières à Vachat,0,NA,claste
+JR248,meulières à Vachat,0,NA,claste
+JR249,Fayaux 1,0,F8,
+JR250,Fayaux 1,0,F8,
+JR251,Fayaux 1,0,F8,
+JR252a,torrent de Chauffemérande,1,F2,
+JR252b,torrent de Chauffemérande,1,F2,
+JR253,torrent de Chauffemérande,2,F9,
+JR254,torrent de Chauffemérande,3,F9,
+JR255,torrent de Chauffemérande,4,F9,
+JR256,torrent de Chauffemérande,9,F9,
+JR257,les Chaix,0,F9,cf lina
+JR258,les Chaix,0,F9,cf lina
+JR259,les Chaix,0,F9,cf lina
+JR260,les Chaix,0,F9,cf lina
+JR261,les Chaix,0,F9,cf lina
+JR264,carrière de Saint André,1,F2,
+JR265,carrière de Saint André,5,F3,
+JR266,la Chavanne (Burdignin),0,F5,
+JR267,torrent de Carraz,0,F5,bord de route 
+JR268,torrent de Carraz,0,F5,bord de route 
+JR269,torrent de Carraz,0,F9,section marneuse du torrent amont
+JR270,torrent de Carraz,0,F9,section marneuse du torrent amont
+JR271,Burdignin,0,F5,
+JR272,carrière de Fillinges 2,0,NA,cf lina
+JR273,carrière de Fillinges 2,0,NA,cf lina
+JR274,carrière de Fillinges 2,0,NA,cf lina
+JR275,carrière de Fillinges 2,0,NA,cf lina
+JR276,carrière de Fillinges 2,0,NA,cf lina
+JR277,carrière de Fillinges 2,0,NA,cf lina
+JR278,torrent Chez le Merizier,10,F9,
+JR279,torrent Chez le Merizier,2,F9,
+JR280,torrent Chez le Merizier,23,F9,
+JR281,torrent Chez le Merizier,34,F8,
+JR282,torrent Chez Rollin,18,F8,
+JR283,torrent Chez Rollin,46,F9,
+JR284,torrent Chez Rollin,75,F9,
+JR285,nant des Manants,0,NA,
+JR286,les Grands Bois 1,8,F9,
+JR287,Rocher d'escalade,0,NA,marnes
+JR288,Rocher d'escalade,3,F9,
+JR289,Rocher d'escalade,0,NA,marnes
+JR290,Monastère de Bethléem,0,NA,marnes
+JR291,Monastère de Bethléem,0,NA,bentonite
+JR292,Monastère de Bethléem,0,NA,marnes
+JR293,torrent de Carraz,0,F5,
+JR294,les Grands Bois 1,27,F9,
+JR295,les Grands Bois 1,31,F9,
+JR296,les Grands Bois 1,0,NA,marnes
+JR297,les Grands Bois 1,40,F9,
+JR298,les Grands Bois 1,35,F9,
+JR299,les Grands Bois 1,52,F9,
+JR300,Grande Combe,0,F2,
+JR301,Grange Sauthier,32,F8,
+JR302,Grange Sauthier,2,F9,
+JR303,Saut de la Pucelle,95a,F9,
+JR304,Crête des Voirons,0,F8,
+JR305,Rau Bruant,0,F8,Section 1 carnet
+JR306,Rau Bruant,0,F8,Section 2 carnet
+JR307,Rau Bruant,0,F8,Section 4 carnet
+JR308,Rau Bruant,0,F8,Section 6 carnet
+JR309,les Grands Bois 1,0,NA,marnes
+JR310,torrent Chez le Merizier,41,F8,
+JR311,torrent Chez Rollin,61,F8,
+JR312,carrière de Fillinges 1,65,F9,
+JR313,carrière de Fillinges 1,84,F8,
+JR314,carrière de Fillinges 1,92,F8,
+JR315,torrent de Chauffemérande,0,F2,bordure de chemin
+JR316,torrent de Chauffemérande,0,F2,bordure de chemin
+JR317,torrent de Chauffemérande,0,F2,bordure de chemin
+JR318,torrent de Chauffemérande,0,NA,Marnes proches du contact CgV/MdS
+JR319,torrent de Chauffemérande,0,NA,Conglomérat clast-supported
+JR320,carrière des Châteaux,16,F5,
+JR321,carrière des Châteaux,17,F8,
+JR322,carrière des Châteaux,0,NA,marnes
+JR323,carrière des Châteaux,23a,F8,
+JR324,carrière des Châteaux,9,F5,
+JR325,carrière des Châteaux,15,F5,
+JR326,carrière des Châteaux,3,F5,
+JR327,carrière des Châteaux,6,F5,
+JR328,torrent de Chauffemérande,0,F5,Section 4 – Vers le contact supérieur
+JR329,carrière des Châteaux,15,F5,
+JR330,carrière des Châteaux,28,F5,
+JR331,torrent de la Molertaz,0,F5,Rive gauche – En amont de la meulière
+JR332,Rocher d'escalade,11,F8,
+JR333,Rocher d'escalade,16,F8,
+JR334,carrière Route des Noyers,0,F8,
+JR335,Rocher d'escalade,0,F8,petite carrière 2
+JR337,carrière des Fayaux 1,0,F8,
+JR338,carrière des Fayaux 1,0,F8,
+JR339,carrière des Fayaux 1,0,F8,
+JR340,carrière des Fayaux 1,0,F8,
+JR341,chemin du Château,0,F5,
+JR342,Château-Neuf d'Allinges,0,F5,
+JR343,Château-Neuf d'Allinges,0,F5,
+JR344,Rocher d'escalade,4a,F9,
+JR345,Rocher d'escalade,5,F9,
+JR346,Rocher d'escalade,9,F8,
+JR347,torrent de la Molertaz,0,F5,
+JR348,torrent de la Molertaz,0,F5,
+JR349,la Janière,0,F8,
+JR350,torrent Combe Ecuer,0,F5,Section 6 carnet
+JR351,torrent Combe Ecuer,0,F5,Section 6 carnet ? - a refaire
+JR352,torrent Combe Ecuer,0,F8,Section 2 carnet
+JR353,torrent Combe Ecuer,0,F8,Section 1 carnet
+JR354,nant des Manants,0,NA,a refaire
+JR355,nant des Manants,0,NA,a refaire
+JR356,Rau Bruan,0,NA,a refaire
+JR357,Zollhaus,0,F8,
+JR358,Zollhaus,0,F8,
+JR359,Zollhaus,0,F8,
+JR360,Zollhaus,0,F8,
+JR361,Zollhaus,0,F8,
+JR362,Zollhaus,0,F8,
+JR363,Zollhaus,0,F8,
+JR364,Zollhaus,0,F8,
+JR365,carrière du Fenalet,7,F8,
+JR366,carrière du Fenalet,9,F8,
+JR367,carrière du Fenalet,14,F8,
+JR368,torrent de Chauffemérande,0,F2,Section 4 
+JR369,nant des Manants,101,F8,
+JR370,torrent de Chauffemérande,9,F9,
+JR371,torrent de Chauffemérande,0,F2,Cavité sur le chemin
+JR372,Grotte aux Loups,6a,F5,
+JR373,Grotte aux Loups,7a,F2,
+JR374,Grotte aux Loups,17,F8,
+JR375,Grotte aux Loups,0,F5,Entrée sur la terasse
+JR376,carrière du Fenalet,4a,F8,
