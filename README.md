@@ -9,4 +9,4 @@ Repository of dataset and figures used in publications.
 
 + `Ragusa2018b` **Ragusa J**, Kindler P (**2018**) Compositional variations in deep-sea gravity-flow deposits. A case study from the Voirons Flysch (Voirons-Wägital complex, Chablais Prealps, France). *Sedimentary Geology*, 377:111-130. [![DOI:10.1016/j.sedgeo.2018.08.010](https://zenodo.org/badge/DOI/10.1016/j.sedgeo.2018.08.010.svg)](https://doi.org/10.1016/j.sedgeo.2018.08.010)
 
-+ `Ragusa2021` **Ragusa J**, Ospina-Ostios LM, Kindler P, Sartori M (**2021**). Stratigraphic revision and reconstruction of the deep-sea fan of the Voirons Flysch (Voirons Nappe, Chablais Prealps). *Swiss Journal of Geosciences*, 114. *soon*
++ `Ragusa2021a` **Ragusa J**, Ospina-Ostios LM, Kindler P, Sartori M (**2021**). Stratigraphic revision and reconstruction of the deep-sea fan of the Voirons Flysch (Voirons Nappe, Chablais Prealps). *Swiss Journal of Geosciences*, 114:8. [![DOI:10.1186/s00015-020-00383-1](https://zenodo.org/badge/DOI/10.1186/s00015-020-00383-1.svg)](https://doi.org/10.1186/s00015-020-00383-1) 

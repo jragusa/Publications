@@ -1,0 +1,581 @@
+############,,,,,,,,,,,,
+# title: dip and azimut measurements of beds and faults in the Voirons Flysch,,,,,,,,,,,,
+# author: Lina Maria Ospina-Ostios and Jérémy Ragusa,,,,,,,,,,,,
+# date: 2018-02-07,,,,,,,,,,,,
+# comments: please refer to the Log folder for stratigraphic logs,,,,,,,,,,,,
+############,,,,,,,,,,,,
+outcrop,unit,formation,member,date,bed,azimut,dip,type,lat,lon,sector,remarks
+Allinges castle quarry,,Voirons Sandstone,Allinges Mb.,,2,145,40,bed,,,Allinges,
+Allinges castle quarry,,Voirons Sandstone,Allinges Mb.,,6,134,33,bed,,,Allinges,
+Allinges castle quarry,,Voirons Sandstone,Allinges Mb.,,15,139,36,bed,,,Allinges,
+Allinges castle quarry,,Voirons Sandstone,Allinges Mb.,,16,147,55,bed,,,Allinges,
+Allinges castle quarry,,Voirons Sandstone,Allinges Mb.,,23a,144,35,bed,,,Allinges,
+Allinges small quarry,,Voirons Sandstone,Allinges Mb.,,lina,136,22,bed,,,Allinges,?
+Allinges small quarry,,Voirons Sandstone,Allinges Mb.,,lina,136,20,bed,,,Allinges,?
+Allinges small quarry,,Voirons Sandstone,Allinges Mb.,,lina,144,18,bed,,,Allinges,?
+Allinges small quarry,,Voirons Sandstone,Allinges Mb.,,lina,122,18,bed,,,Allinges,?
+Allinges small quarry,,Voirons Sandstone,Allinges Mb.,,lina,138,22,bed,,,Allinges,?
+Allinges small quarry,,Voirons Sandstone,Allinges Mb.,,lina,147,55,bed,,,Allinges,Q3
+Allinges small quarry,,Voirons Sandstone,Allinges Mb.,,lina,144,35,bed,,,Allinges,Q3
+Allinges small quarry,,Voirons Sandstone,Allinges Mb.,,lina,139,36,bed,,,Allinges,Q2
+Allinges small quarry,,Voirons Sandstone,Allinges Mb.,,lina,145,40,bed,,,Allinges,Q1
+Allinges small quarry,,Voirons Sandstone,Allinges Mb.,,lina,134,33,bed,,,Allinges,Q1
+Bard,,Boëge Marl,,2018-07-20,NA,308,88,bed,,,Voirons,
+Bard,,Boëge Marl,,2018-07-20,NA,298,66,bed,,,Voirons,
+Béthléem monastery,,Voirons Sandstone,,,lina,98,38,bed,,,Voirons,
+Béthléem monastery,,Voirons Sandstone,,,lina,100,40,bed,,,Voirons,
+Béthléem monastery,,Voirons Sandstone,,,lina,100,40,bed,,,Voirons,
+Boisinges,,Vouan Conglomerate,,,lina,112,22,bed,,,Voirons,
+Bons quarry,,Voirons Sandstone,Bons Mb.,,5,98,40,bed,,,Voirons,
+Bons quarry,,Voirons Sandstone,,,lina,98,40,bed,,,Voirons,
+Bons quarry,,Voirons Sandstone,,,lina,97,43,bed,,,Voirons,
+Bons quarry,,Voirons Sandstone,,,lina,97,41,bed,,,Voirons,
+Buisson Rond,,Voirons Sandstone,,,lina,82,46,bed,,,Voirons,
+Buisson Rond,,Voirons Sandstone,,,lina,76,43,bed,,,Voirons,
+Burdignin,,Bruant Sandstone,,,lina,115,52,bed,,,Voirons,
+Burdignin,,Bruant Sandstone,,,lina,132,53,bed,,,Voirons,
+Carraz stream,marly section,Bruant Sandstone,,2014-06-15,NA,23,74,bed,,,Voirons,upstream tilted bed 
+Carraz stream,marly section,Bruant Sandstone,,2014-06-15,5,64,32,bed,,,Voirons,
+Carraz stream,,Bruant Sandstone,,,lina,187,38,bed,,,Voirons,rive droite
+Carraz stream,,Bruant Sandstone,,,lina,55,32,bed,,,Voirons,rive gauche
+Carraz stream,,Bruant Sandstone,,,lina,60,32,bed,,,Voirons,rive gauche
+Carraz stream,,Bruant Sandstone,,,lina,187,38,bed,,,Voirons,rive droite
+Chauffemérande stream,,Boëge Marl,,,1,102,28,bed,,,Voirons,
+Chauffemérande stream,,Boëge Marl,,,3,92,27,bed,,,Voirons,
+Chauffemérande stream,,Boëge Marl,,,9,91,28,bed,,,Voirons,
+Chauffemérande stream,,Boëge Marl,,,11,89,32,bed,,,Voirons,
+Chauffemérande stream,,Vouan Conglomerate,,,lina,80,35,bed,,,Voirons,conglomérat au bord de la route
+Chauffemérande stream,,Vouan Conglomerate,,,lina,55,30,bed,,,Voirons, top Ro. Chauffémerandes
+Chauffemérande stream,,Vouan Conglomerate,,,lina,82,45,bed,,,Voirons, top Ro. Chauffémerandes
+Chauffemérande stream,,Vouan Conglomerate,,,lina,85,40,bed,,,Voirons, top Ro. Chauffémerandes
+Chauffemérande stream,,Boëge Marl,,,lina,92,30,bed,,,Voirons,
+Chauffemérande stream,,Boëge Marl,,,lina,82,30,bed,,,Voirons,
+Chauffemérande stream,,Boëge Marl,,,lina,102,28,bed,,,Voirons,
+Chauffemérande stream,,Boëge Marl,,,lina,92,27,bed,,,Voirons,
+Chauffemérande stream,,Boëge Marl,,,lina,91,28,bed,,,Voirons,
+Chauffemérande stream,,Boëge Marl,,,lina,89,32,bed,,,Voirons,
+Chauffemérande stream,,Boëge Marl,,2011-08-11,lina,85,30,bed,,,Voirons,
+Chemin du Pieu,,Voirons Sandstone,,,lina,80,36,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,9,7,36,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,10,357,34,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,17,9,38,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,18,47,28,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,23,41,10,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,25,38,8,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,41,357,8,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,42,10,15,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,43,287,78,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,45,305,79,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,61,293,80,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,63,40,18,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,64,36,18,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,29/04/12,69,52,18,bed,,,Voirons,
+Chez le Merizier stream,,Boëge Marl,,,lina,40,18,bed,,,Voirons,après le pli
+Chez le Merizier stream,,Boëge Marl,,,lina,39,18,bed,,,Voirons,après le pli
+Chez le Merizier stream,,Boëge Marl,,,lina,36,18,bed,,,Voirons,après le pli
+Chez le Merizier stream,,Boëge Marl,,,lina,52,18,bed,,,Voirons,à hauteur de la maison
+Chez le Merizier stream,,Boëge Marl,,,lina,10,15,bed,,,Voirons,après le pli
+Chez le Merizier stream,,Boëge Marl,,,lina,23,16,bed,,,Voirons,après le pli
+Chez le Merizier stream,,Boëge Marl,,,lina,16,11,bed,,,Voirons,après le pli
+Chez le Merizier stream,,Boëge Marl,,,lina,358,34,bed,,,Voirons,après le pont en ruine
+Chez le Merizier stream,,Boëge Marl,,,lina,7,36,bed,,,Voirons,après le pont en ruine
+Chez le Merizier stream,,Boëge Marl,,,lina,9,38,bed,,,Voirons,après le pont en ruine
+Chez le Merizier stream,,Boëge Marl,,,lina,17,32,bed,,,Voirons,après le pont en ruine
+Chez le Merizier stream,,Boëge Marl,,,lina,27,56,bed,,,Voirons,après le pont en ruine
+Chez le Merizier stream,,Boëge Marl,,,lina,38,8,bed,,,Voirons,dalle de marnes
+Chez le Merizier stream,,Boëge Marl,,,lina,41,10,bed,,,Voirons,dalle de marnes
+Chez le Merizier stream,,Boëge Marl,,,lina,47,28,bed,,,Voirons,dalle de marnes
+Chez le Merizier stream,,Boëge Marl,,,lina,332,21,bed,,,Voirons,aval du pli
+Chez le Merizier stream,,Boëge Marl,,,lina,345,19,bed,,,Voirons,aval du pli
+Chez le Merizier stream,,Boëge Marl,,,lina,330,18,bed,,,Voirons,aval du pli
+Chez le Merizier stream,,Boëge Marl,,,lina,350,16,bed,,,Voirons,aval du pli
+Chez le Merizier stream,,Boëge Marl,,,lina,8,12,bed,,,Voirons,aval du pli
+Chez le Merizier stream,,Boëge Marl,,,lina,19,19,bed,,,Voirons,aval du pli
+Chez le Merizier stream,,Boëge Marl,,,lina,357,8,bed,,,Voirons,après le pli
+Chez le Merizier stream,,Boëge Marl,,,lina,289,70,bed,,,Voirons,après le pli
+Chez le Merizier stream,,Boëge Marl,,,lina,299,78,bed,,,Voirons,après le pli
+Chez le Merizier stream,,Boëge Marl,,,lina,296,70,bed,,,Voirons,après le pli
+Chez le Merizier stream,,Boëge Marl,,,lina,293,81,bed,,,Voirons,flanc renversé
+Chez le Merizier stream,,Boëge Marl,,,lina,287,78,bed,,,Voirons,flanc normal
+Chez les Bourguignons,,Voirons Sandstone,,,lina,92,30,bed,,,Voirons,
+Chez Musard,,Boëge Marl,,,lina,125,38,bed,,,Voirons,
+Chez Musard,,Boëge Marl,,,lina,105,16,bed,,,Voirons,
+Chez Musard,,Boëge Marl,,,lina,106,29,bed,,,Voirons,
+Chez Musard,,Boëge Marl,,,lina,79,70,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,8,146,22,bed,,,Voirons,145 pour lina
+Chez Rollin stream,,Boëge Marl,,,15,143,12,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,19,129,23,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,27,129,38,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,31,109,24,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,32,107,22,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,35,108,28,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,37,120,25,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,39,105,26,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,43,96,18,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,46,116,65,bed,,,Voirons,306 pour lina
+Chez Rollin stream,,Boëge Marl,,,51,115,70,bed,,,Voirons,305 pour lina
+Chez Rollin stream,,Boëge Marl,,,57,74,38,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,58,84,42,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,66,145,62,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,66,158,2,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,67,66,12,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,75,65,13,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,lina,116,20,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,lina,101,22,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,lina,114,38,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,lina,129,30,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,lina,138,24,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,lina,125,28,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,lina,138,28,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,lina,137,38,bed,,,Voirons,
+Chez Rollin stream,,Boëge Marl,,,lina,134,28,bed,,,Voirons,
+Chez Ruffieux,,Voirons Sandstone,,,lina,100,43,bed,,,Voirons,
+Chez Ruffieux,,Voirons Sandstone,,,lina,119,42,bed,,,Voirons,
+Chez Ruffieux,,Voirons Sandstone,,,lina,112,41,bed,,,Voirons,
+Combe Ecuer stream,,Bruant Sandstone,,,lina,308,63,bed,,,Voirons,
+Combe Ecuer stream,,Bruant Sandstone,,,lina,99,39,bed,,,Voirons,
+Combe Ecuer stream,,Bruant Sandstone,,,lina,103,16,bed,,,Voirons,
+Combe Ecuer stream,,Bruant Sandstone,,,lina,88,32,bed,,,Voirons,
+Combe Ecuer stream,,Bruant Sandstone,,,lina,98,43,bed,,,Voirons,
+Combe Ecuer stream,,Bruant Sandstone,,,lina,101,45,bed,,,Voirons,reverse
+Combe Ecuer stream,,Bruant Sandstone,,,lina,96,42,bed,,,Voirons,
+Combe Ecuer stream,,Bruant Sandstone,,,lina,93,24,bed,,,Voirons,
+Combe Ecuer stream,,Bruant Sandstone,,,lina,116,51,bed,,,Voirons,
+Combe Ecuer stream,,Bruant Sandstone,,,lina,108,42,bed,,,Voirons,
+Coulé aux Farnaises,,Wildflysch,,,lina,98,44,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,1,128,68,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,3,128,60,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,6,124,62,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,7,133,64,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,22,128,60,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,36,127,62,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,39,127,65,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2011-04-20,146,122,57,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2011-04-20,148,127,58,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,18/07/10,151,134,58,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,151,102,63,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,18/07/10,155,130,56,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,18/07/10,156,134,54,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,18/07/10,162,142,58,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,18/07/10,164,146,62,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2010-07-11,175,58,62,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2010-07-24,186,109,52,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2010-07-26,209,110,57,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2010-07-26,212,106,58,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2010-07-26,215,109,60,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2010-07-26,217,112,60,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2010-07-26,219,112,56,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,26/07/10,227,115,56,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,26/07/10,228,115,56,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2010-07-27,250,107,52,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2010-08-05,264,115,52,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,05/08/10,280,127,38,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,05/08/10,282,133,38,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,05/08/10,289,121,38,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,05/08/10,290,177,90,fault ?,,,Voirons,
+Curseille stream,,Voirons Sandstone,,18/07/10,160d,137,60,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,2010-07-24,181b,112,56,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,05/08/10,285b,120,38,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,34a,134,65,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,38a,128,63,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,124,62,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,124,78,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,128,68,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,123,72,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,134,65,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,128,63,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,127,59,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,122,64,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,125,58,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,125,56,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,126,56,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,126,68,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,116,72,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,126,71,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,132,68,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,132,70,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,130,70,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,129,70,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,130,68,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,132,65,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,137,60,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,127,57,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,109,52,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,102,63,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,108,58,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,112,62,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,108,51,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,110,57,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,106,58,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,109,60,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,112,60,bed,,,Voirons,
+Curseille stream,,Voirons Sandstone,,,lina,111,58,bed,,,Voirons,
+Curseille stream,,Vouan Conglomerate,,,lina,121,38,bed,,,Voirons,
+Curseille stream,,Vouan Conglomerate,,,lina,126,33,bed,,,Voirons,
+Curseille stream,,Vouan Conglomerate,,,lina,127,38,bed,,,Voirons,
+Curseille stream,,Vouan Conglomerate,,,lina,133,38,bed,,,Voirons,
+Curseille stream,,Vouan Conglomerate,,,lina,120,38,bed,,,Voirons,
+D20 – 890,,Voirons Sandstone,,,14c,62,40,bed,,,Voirons,
+D20 – BovetRollin,,Boëge Marl,,,lina,89,32,bed,,,Voirons,
+D20 – BovetRollin,,Boëge Marl,,,lina,90,8,bed,,,Voirons,
+D20 – talus 902,,Vouan Conglomerate,,,lina,98,36,bed,,,Voirons,
+D50,,Voirons Sandstone,,,lina,89,48,bed,,,Voirons,avant parking monastère
+D50,,Voirons Sandstone,,,lina,107,39,bed,,,Voirons,avant parking monastère
+Dranse – Left bank,,Boëge Marl,,2015-12-14,1,133,36,bed,,,Allinges,
+Dranse – Left bank,,Boëge Marl,,2015-12-14,3,152,24,bed,,,Allinges,
+Dranse – Left bank,,Boëge Marl,,2015-12-14,17,132,77,bed,,,Allinges,
+Dranse – Left bank,,Boëge Marl,,2015-12-14,30,122,66,bed,,,Allinges,
+Dranse – Left bank,,Boëge Marl,,2015-12-14,34,128,52,bed,,,Allinges,
+Dranse – Left bank,,Boëge Marl,,2015-12-14,36,126,56,bed,,,Allinges,
+Dranse – Right bank (section 1),,Boëge Marl,,2018-07-26,,121,40,bed,46.35798,6.52318,Allinges,
+Dranse – Right bank (section 2),,Boëge Marl,,2018-07-26,,58,54,fault,46.35866,6.52129,Allinges,plus ou moins
+Dranse – Right bank (section 3),,Boëge Marl,,2018-07-26,,167,38,bed,,,Allinges,
+Dranse – Right bank (section 3),,Boëge Marl,,2018-07-26,,104,51,fault,,,Allinges,
+Fenalet quarry,,Voirons Sandstone,,2014-04-20,8,72,16,bed,,,Fenalet,
+Fenalet quarry,,Voirons Sandstone,,2014-04-20,4c,70,10,bed,,,Fenalet,
+Fillinges quarry,,Voirons Sandstone,,,lina,103,38,bed,,,Voirons,
+Fillinges quarry,,Voirons Sandstone,,,lina,99,42,bed,,,Voirons,
+Fillinges quarry,,Voirons Sandstone,,,lina,98,38,bed,,,Voirons,
+Fillinges quarry,,Voirons Sandstone,,,lina,99,40,bed,,,Voirons,
+Fillinges quarry,,Voirons Sandstone,,,lina,80,41,bed,,,Voirons,
+Fillinges quarry,,Voirons Sandstone,,,lina,94,44,,,,Voirons,a supprimer si 44 et non 41
+Fillinges quarry,,Voirons Sandstone,,,lina,88,38,,,,Voirons,a supprimer si 38 et non 30
+Fillinges quarry,,Voirons Sandstone,,,lina,107,48,bed,,,Voirons,
+Fillinges quarry,,Voirons Sandstone,,,lina,101,40,bed,,,Voirons,
+Fillinges quarry 1,,Voirons Sandstone,,22/10/12,65,89,37,bed,,,Voirons,
+Fillinges quarry 1,,Voirons Sandstone,,22/10/12,76,112,42,bed,,,Voirons,
+Fillinges quarry 1,,Voirons Sandstone,,22/10/12,93,110,32,bed,,,Voirons,
+Fillinges quarry 1,,Voirons Sandstone,,22/10/12,94,103,42,bed,,,Voirons,
+Fillinges quarry 2,,Voirons Sandstone,,,2,94,41,bed,,,Voirons,41 ou 44 (lina)
+Fillinges quarry 2,,Voirons Sandstone,,,6,88,30,bed,,,Voirons,30 ou 38 (lina)
+Fillinges quarry 2,,Voirons Sandstone,,,14,109,50,bed,,,Voirons,
+Fillinges quarry 2,,Voirons Sandstone,,,18,116,44,bed,,,Voirons,
+Fillinges quarry 2,,Voirons Sandstone,,,25,103,38,bed,,,Voirons,
+Fillinges quarry 2,,Voirons Sandstone,,,31,96,38,bed,,,Voirons,
+Fillinges quarry 2,,Voirons Sandstone,,,38,108,38,bed,,,Voirons,
+Fillinges quarry 2,,Voirons Sandstone,,,41,90,38,bed,,,Voirons,
+Fillinges quarry 2,,Voirons Sandstone,,,53,104,48,bed,,,Voirons,
+Fillinges quarry 2,,Voirons Sandstone,,,59,91,38,bed,,,Voirons,
+Fillinges quarry 2,,Voirons Sandstone,,,60,104,38,bed,,,Voirons,
+Grande Gueule quarry,,Vouan Conglomerate,,2012-05-17,3,76,28,bed,,,Voirons,
+Grande Gueule quarry,,Vouan Conglomerate,,2012-05-17,2a,70,36,bed,,,Voirons,
+Grande Gueule quarry,,Vouan Conglomerate,,,lina,100,30,bed,,,Voirons,
+Grande Gueule quarry,,Vouan Conglomerate,,,lina,94,30,bed,,,Voirons,
+Grande Gueule quarry,,Vouan Conglomerate,,,lina,94,28,bed,,,Voirons,
+Grande Gueule quarry,,Vouan Conglomerate,,,lina,94,26,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,11,100,51,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,16,96,60,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,21,105,57,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,28,103,60,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,36,120,62,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,39,101,76,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,52,97,51,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,63,83,54,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,65,111,87,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,68,97,14,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,73,105,55,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,64-66,336,51,fault,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,27/06/12,64-66,262,19,strie,,,Voirons,
+Grands Bois,Section 1,Voirons Sandstone,Bons Mb.,,lina,109,61,bed,,,Voirons,GB1 Lina
+Grands Bois,Section 1,Voirons Sandstone,Bons Mb.,,lina,101,62,bed,,,Voirons,GB1 Lina
+Grands Bois,Section 1,Voirons Sandstone,Bons Mb.,,lina,86,58,bed,,,Voirons,GB1 Lina
+Grands Bois,Section 1,Voirons Sandstone,Bons Mb.,,lina,97,71,bed,,,Voirons,GB1 Lina
+Grands Bois,Section 2,Voirons Sandstone,,,lina,101,30,bed,,,Voirons,dans le virage GB22
+Grands Bois,Section 2,Voirons Sandstone,,,lina,100,30,bed,,,Voirons,fin du virage GB22
+Grands Bois,Section 2,Voirons Sandstone,,,lina,99,31,bed,,,Voirons,fin du virage GB22
+Grands Bois,,Voirons Sandstone,Bons Mb.,,lina,118,47,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,,lina,96,71,bed,,,Voirons,
+Grands Bois,,Voirons Sandstone,Bons Mb.,,lina,102,55,bed,,,Voirons,
+Granges Gaillard,,Voirons Sandstone,,,lina,84,76,bed,,,Voirons,
+Granges Gaillard,,Voirons Sandstone,,,lina,99,68,bed,,,Voirons,
+Granges Gaillard,,Voirons Sandstone,,2012-09-03,lina,128,64,bed,,,Voirons,
+Granges Gaillard,,Voirons Sandstone,,2012-09-03,lina,92,70,bed,,,Voirons,
+Granges Gaillard,,Voirons Sandstone,,2012-09-03,lina,61,50,bed,,,Voirons,
+Granges Sauthier,,Boëge Marl,,,2,122,18,bed,,,Voirons,
+Granges Sauthier,,Boëge Marl,,,8,144,18,bed,,,Voirons,
+Granges Sauthier,,Boëge Marl,,,9,136,20,bed,,,Voirons,
+Granges Sauthier,,Boëge Marl,,,20,136,22,bed,,,Voirons,
+Granges Sauthier,,Boëge Marl,,,lina,139,26,bed,,,Voirons,
+Granges Sauthier,,Boëge Marl,,,lina,144,23,bed,,,Voirons,
+Granges Sauthier,,Boëge Marl,,,lina,145,22,bed,,,Voirons,
+Granges Sauthier,,Boëge Marl,,,lina,151,14,bed,,,Voirons,
+Granges Sauthier,,Boëge Marl,,,lina,136,14,bed,,,Voirons,
+Granges Sauthier,,Boëge Marl,,,lina,140,30,bed,,,Voirons,
+Granges Sauthier,,Boëge Marl,,,lina,195,12,bed,,,Voirons,La Cabra
+Granges Sauthier,,Boëge Marl,,,lina,187,14,bed,,,Voirons,La Cabra
+Grotte aux Loups,,Vouan Conglomerate,,,9,130,54,bed,,,Allinges,
+Grotte aux Loups,,Vouan Conglomerate,,,18a,132,48,bed,,,Allinges,
+Juffly,,Voirons Sandstone,,,lina,60,40,bed,,,Voirons,
+Juffly,,Voirons Sandstone,,,lina,98,40,bed,,,Voirons,
+Juffly,,Voirons Sandstone,,,lina,60,40,bed,,,Voirons,
+La Chaix,,Boëge Marl,,,lina,274,69,bed,,,Voirons,
+La Chaix,,Boëge Marl,,,lina,277,64,bed,,,Voirons,
+La Chaix,,Boëge Marl,,,lina,267,64,bed,,,Voirons,
+La Chaix,,Boëge Marl,,,lina,74,66,bed,,,Voirons,
+La Chaix,,Boëge Marl,,,lina,97,57,bed,,,Voirons,
+La Chaix,,Boëge Marl,,,lina,89,55,bed,,,Voirons,
+La Chaix,,Boëge Marl,,,lina,93,58,bed,,,Voirons,
+La Chaix,,Boëge Marl,,,lina,70,58,bed,,,Voirons,
+La Chavanne,,Boëge Marl,,2017-05-09,1,333,80,bed,,,Voirons,
+La Chavanne,,Boëge Marl,,2017-05-09,9,136,61,bed,,,Voirons,
+La Chavanne,,Boëge Marl,,2017-05-09,20,105,52,bed,,,Voirons,
+La Chavanne,,Boëge Marl,,,lina,135,78,bed,,,Voirons,
+La Chavanne (Burdignin),,Bruant Sandstone,,,lina,150,82,bed,,,Voirons,
+La Chavanne (Burdignin),,Bruant Sandstone,,,lina,152,52,bed,,,Voirons,
+La Côte,,Boëge Marl,,2018-07-31,NA,88,89,fault,46.205623,6.412930,Voirons,
+La Côte,,Boëge Marl,,2018-07-31,NA,52,89,fault,46.205623,6.412930,Voirons,
+La Côte,,Boëge Marl,,2018-07-31,NA,229,58,fault,46.205623,6.412930,Voirons,
+La Côte,,Boëge Marl,,2018-07-31,NA,336,60,fault,46.205623,6.412930,Voirons,approximate
+La Côte,,Boëge Marl,,2018-07-31,NA,196,74,fault,46.205623,6.412930,Voirons,approximate
+La Côte,,Boëge Marl,,2018-07-31,NA,311,80,fault,46.205623,6.412930,Voirons,approximate
+La Coterie,,Vouan Conglomerate,,,lina,109,37,bed,,,Voirons,
+La Léthaz,,Voirons Sandstone,,,lina,101,40,bed,,,Voirons,VS ou WF ?
+La Léthaz,,Voirons Sandstone,,,lina,94,39,bed,,,Voirons,VS ou WF ?
+La Maisonnée,,Voirons Sandstone,,,lina,100,52,bed,,,Voirons,
+La Maisonnée,,Voirons Sandstone,,,lina,90,44,bed,,,Voirons,
+La Maisonnée,,Voirons Sandstone,,,lina,98,43,bed,,,Voirons,
+La Maisonnée,,Voirons Sandstone,,,lina,62,42,bed,,,Voirons,
+La Maisonnée,,Voirons Sandstone,,,lina,90,54,bed,,,Voirons,
+La Maisonnée,,Voirons Sandstone,,,lina,78,40,bed,,,Voirons,
+La Maisonnée,,Voirons Sandstone,,,lina,82,44,bed,,,Voirons,
+La Maisonnée,,Voirons Sandstone,,,lina,78,46,bed,,,Voirons,
+La Maisonnée,,Voirons Sandstone,,,lina,84,44,bed,,,Voirons,
+La Maisonnée,,Voirons Sandstone,,,lina,82,46,bed,,,Voirons,
+La Mouille,,Voirons Sandstone,,,lina,108,60,bed,,,Voirons,VS ou WF ?
+La Moutonnière,Block 1,Voirons Sandstone,,25/03/11,7,150,30,bed,,,Voirons,
+La Moutonnière,Block 1,Voirons Sandstone,,25/03/11,14,260,50,fault,,,Voirons,
+La Moutonnière,Block 1,Voirons Sandstone,,,20,175,26,bed,,,Voirons,
+La Moutonnière,Block 1,Voirons Sandstone,,25/03/11,29,155,34,bed,,,Voirons,
+La Moutonnière,Block 2,Voirons Sandstone,,,45,101,32,bed,,,Voirons,
+La Moutonnière,Block 2,Voirons Sandstone,,,55,110,38,bed,,,Voirons,
+La Moutonnière,Block 2,Voirons Sandstone,,,66,113,35,bed,,,Voirons,
+La Moutonnière,Block 2,Voirons Sandstone,,,74,108,33,bed,,,Voirons,
+La Moutonnière,Block 2,Voirons Sandstone,,,83,108,32,bed,,,Voirons,
+La Moutonnière,,Voirons Sandstone,,,lina,104,40,bed,,,Voirons,
+La Moutonnière,,Voirons Sandstone,,,lina,98,60,bed,,,Voirons,
+La Moutonnière,,Voirons Sandstone,,,lina,160,42,bed,,,Voirons,
+La Renardière,,Voirons Sandstone,,,lina,127,51,bed,,,Voirons,
+La Renardière,,Voirons Sandstone,,,lina,130,51,bed,,,Voirons,
+La Salle,,Vouan Conglomerate,,,lina,124,28,bed,,,Voirons,
+Le Bovet,,Boëge Marl,,,lina,126,60,bed,,,Voirons,BM ou PM ?
+Le Planet,,Voirons Sandstone,,,2,115,78,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,10,120,60,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,25,128,82,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,35,110,62,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,40,132,70,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,42,134,64,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,47,129,62,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,50,128,62,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,51,127,60,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,52,111,75,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,55,149,88,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,60,108,78,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,63,126,64,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,53c,149,78,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,lina,130,76,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,lina,136,72,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,lina,142,70,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,lina,144,72,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,lina,123,58,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,lina,130,66,bed,,,Voirons,
+Le Planet,,Voirons Sandstone,,,lina,149,78,bed,,,Voirons,
+Les Crêts,,Boëge Marl,,2018-07-16,1,117,29,bed,,,Voirons,
+Les Crêts,,Boëge Marl,,2018-07-16,4,72,32,bed,,,Voirons,
+Les Crêts,,Boëge Marl,,2018-07-16,4,93,35,bed,,,Voirons,
+Molertaz stream,,Vouan Conglomerate,,,lina,90,29,bed,,,Voirons,
+Molertaz stream,,Vouan Conglomerate,,,lina,98,22,bed,,,Voirons,
+Molière quarry,,Vouan Conglomerate,,,lina,118,20,bed,,,Voirons,
+Monastery road,,Voirons Sandstone,,,1,98,38,bed,,,Voirons,
+Monastery road,,Voirons Sandstone,,,2,100,40,bed,,,Voirons,
+Monastery road,,Voirons Sandstone,,,3,100,40,bed,,,Voirons,
+Monastery road,,Voirons Sandstone,,,10,106,38,bed,,,Voirons,
+Monastery road,,Voirons Sandstone,,,11,140,40,bed,,,Voirons,
+Nant de Manant,,Voirons Sandstone,,2014-05-04,1,122,63,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,10,117,60,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,13,129,64,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,2014-05-04,25,122,50,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,2014-05-04,27,112,64,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,2014-05-04,30,116,70,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,2014-05-04,46,112,62,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,51,116,61,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,106,125,50,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,108,122,51,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,109,118,58,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,110,120,56,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,112,122,62,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,114,119,60,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,129,121,68,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,133,119,56,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,138,121,58,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,143,131,62,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,148,117,66,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,151,113,66,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,157,117,65,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,158,115,70,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,,162,117,60,bed,,,Voirons,Bed A REVOIR
+Nant de Manant,,Voirons Sandstone,,2014-05-12,lina,122,52,bed,,,Voirons,Manant 1
+Nant de Manant,,Voirons Sandstone,,2014-05-12,lina,137,62,bed,,,Voirons,Manant 1
+Nant de Manant,,Voirons Sandstone,,2014-05-12,lina,124,61,bed,,,Voirons,Manant 1
+Nant de Manant,,Voirons Sandstone,,2014-05-12,lina,116,68,bed,,,Voirons,Manant 1
+Nant de Manant,,Voirons Sandstone,,2014-05-12,lina,105,67,bed,,,Voirons,Manant 1
+Nant de Manant,,Voirons Sandstone,,2014-05-12,lina,128,64,bed,,,Voirons,Manant 1
+Nant de Manant,,Voirons Sandstone,,2014-05-12,lina,113,60,bed,,,Voirons,Manant 1
+Nant de Manant,,Voirons Sandstone,,2014-05-12,lina,117,61,bed,,,Voirons,Manant 1
+Nant de Manant,,Voirons Sandstone,,,lina,121,63,bed,,,Voirons,VS petit cascade
+Nant de Manant,,Voirons Sandstone,,,lina,123,68,bed,,,Voirons,VS petit cascade
+Nant de Manant,,Voirons Sandstone,,,lina,124,62,bed,,,Voirons,VS petit cascade
+Nant de Manant,,Voirons Sandstone,,2014-05-12,lina,130,68,bed,,,Voirons,Section marneuse après la cascade
+Nant de Manant,,Voirons Sandstone,,,lina,119,60,bed,,,Voirons,Sur le chemin
+Nant de Manant,,Voirons Sandstone,,,lina,116,62,bed,,,Voirons,Les Penaz
+Nant de Manant,,Voirons Sandstone,,,lina,120,58,bed,,,Voirons,Rive droite
+Nant de Manant,,Voirons Sandstone,,2014-05-12,lina,124,60,bed,,,Voirons,le pennaz
+Nant de Manant,,Voirons Sandstone,,2014-05-12,lina,120,57,bed,,,Voirons,le pennaz
+Nant de Manant,,Voirons Sandstone,,,lina,100,64,bed,,,Voirons,Les Penaz VnCg contact VS-VCg
+Nant de Manant,,Vouan Conglomerate,,,lina,120,64,bed,,,Voirons,banc conglomeratique 4m cascade
+Pont Morand,,Voirons Sandstone,,,lina,106,42,bed,,,Voirons,
+Pont Morand,,Voirons Sandstone,,,lina,76,40,bed,,,Voirons,
+Pont Morand,,Voirons Sandstone,,,lina,88,40,bed,,,Voirons,
+Pont Morand,,Voirons Sandstone,,,lina,79,42,bed,,,Voirons,
+Pont Morand,,Voirons Sandstone,,,lina,80,40,bed,,,Voirons,
+Pont Morand,,Voirons Sandstone,,,lina,80,41,bed,,,Voirons,
+Rocher d’escalade,,Voirons Sandstone,Allinges Mb.,,6,141,41,bed,,,Voirons,
+Rocher d’escalade,,Voirons Sandstone,Allinges Mb.,,11,127,38,bed,,,Voirons,
+Rocher d’escalade,,Voirons Sandstone,Allinges Mb.,,16,128,36,bed,,,Voirons,
+Rocher d’escalade,,Voirons Sandstone,Allinges Mb.,,4a,136,42,bed,,,Voirons,
+Saint André,,Vouan Conglomerate,,,3,81,29,bed,,,Voirons,"29 pour moi, 28 pour lina"
+Saint André,,Vouan Conglomerate,,,10,82,23,bed,,,Voirons,
+Saint André,,Vouan Conglomerate,,,lina,76,30,bed,,,Voirons,Chez Mermier pour Lina
+Saxel Church,,Vouan Conglomerate,,,lina,112,2,bed,,,Voirons,
+Saxel lower quarry,,Voirons Sandstone,,,2,102,39,bed,,,Voirons,
+Saxel lower quarry,,Voirons Sandstone,,,34,107,44,bed,,,Voirons,
+Saxel lower quarry,,Voirons Sandstone,,,15c,108,43,bed,,,Voirons,
+Saxel lower quarry,,Voirons Sandstone,,,25b,106,40,bed,,,Voirons,
+Saxel lower quarry,,Voirons Sandstone,,,25c,79,44,bed,,,Voirons,
+Saxel lower quarry,,Voirons Sandstone,,,lina,96,48,bed,,,Voirons,
+Saxel lower quarry,,Voirons Sandstone,,,lina,94,58,bed,,,Voirons,
+Saxel lower quarry,,Voirons Sandstone,,,lina,87,40,bed,,,Voirons,
+Saxel lower quarry,,Voirons Sandstone,,,lina,104,42,bed,,,Voirons,
+Saxel lower quarry,,Voirons Sandstone,,,lina,102,47,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,5,130,20,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,11,111,24,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,22,110,24,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,28,108,23,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,38,108,22,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,41,106,30,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,43,101,18,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,45,102,24,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,51,106,22,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,58,106,12,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,68,108,24,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,84,114,14,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,2a,110,22,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,lina,105,26,bed,,,Voirons,JR
+Saxel stream,,Boëge Marl,,,lina,93,24,bed,,,Voirons,JR
+Saxel stream,,Boëge Marl,,,lina,111,24,bed,,,Voirons,stratotype
+Saxel stream,,Boëge Marl,,,lina,119,26,bed,,,Voirons,Middle Eoc - Oligocene
+Saxel stream,,Boëge Marl,,,lina,110,24,bed,,,Voirons,P15 - Oligocene
+Saxel stream,,Boëge Marl,,,lina,108,23,bed,,,Voirons,P12 & +
+Saxel stream,,Boëge Marl,,,lina,108,22,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,lina,106,30,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,lina,114,14,bed,,,Voirons,P15 - P18
+Saxel stream,,Boëge Marl,,,lina,100,22,bed,,,Voirons,niche arrachement. P15 - Oligocene
+Saxel stream,,Boëge Marl,,,lina,108,24,bed,,,Voirons,P14 & +
+Saxel stream,,Boëge Marl,,,lina,111,19,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,lina,106,12,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,lina,112,18,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,lina,106,22,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,lina,102,24,bed,,,Voirons,
+Saxel stream,,Boëge Marl,,,lina,101,18,bed,,,Voirons,
+Saxel upper quarry,,Vouan Conglomerate,,,7,120,20,bed,,,Voirons,
+Saxel upper quarry,,Vouan Conglomerate,,,lina,88,54,bed,,,Voirons,
+Saxel upper quarry,,Vouan Conglomerate,,,lina,94,54,bed,,,Voirons,
+Saxel upper quarry,,Vouan Conglomerate,,,lina,82,50,bed,,,Voirons,
+Saxel upper quarry,,Vouan Conglomerate,,,lina,84,54,bed,,,Voirons,
+Saxel upper quarry,,Vouan Conglomerate,,,lina,102,42,bed,,,Voirons,
+Saxel upper quarry,,Vouan Conglomerate,,,lina,104,34,bed,,,Voirons,
+Saxel upper quarry,,Vouan Conglomerate,,,lina,120,18,bed,,,Voirons,
+Saxel upper quarry,,Vouan Conglomerate,,,lina,96,18,bed,,,Voirons,
+Supersaxel,,Boëge Marl,,,12,108,28,bed,,,Voirons,
+Supersaxel,,Boëge Marl,,,1a,130,26,bed,,,Voirons,
+Supersaxel road,,Boëge Marl,,,5,104,13,bed,,,Voirons,
+Vachat quarry,,Vouan Conglomerate,,,lina,68,23,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,25,112,38,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,31,109,36,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,45,100,45,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,48,107,42,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,51,99,41,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,54,107,44,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,105,103,42,bed,,,Voirons,
+Voirons crest,Pralère,Voirons Sandstone,,,122,98,30,bed,,,Voirons,
+Voirons crest,Pralère,Voirons Sandstone,,,130,125,58,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,137,138,62,bed,,,Voirons,
+Voirons crest,Roche aux Corbeaux,Voirons Sandstone,,,151,148,66,bed,,,Voirons,
+Voirons crest,Roche aux Corbeaux,Voirons Sandstone,,,155,122,52,bed,,,Voirons,
+Voirons crest,Roche aux Corbeaux,Voirons Sandstone,,,147a,150,78,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,38a,101,38,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,43c,101,42,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,67d,100,44,bed,,,Voirons,
+Voirons crest,Oratoire du Pralère,Voirons Sandstone,,,lina,141,67,bed,,,Voirons,
+Voirons crest,Oratoire du Pralère,Voirons Sandstone,,,lina,140,46,bed,,,Voirons,
+Voirons crest,Oratoire du Pralère,Voirons Sandstone,,,lina,139,68,bed,,,Voirons,
+Voirons crest,Oratoire du Pralère,Voirons Sandstone,,,lina,155,62,bed,,,Voirons,
+Voirons crest,Oratoire du Pralère,Voirons Sandstone,,,lina,148,58,bed,,,Voirons,
+Voirons crest,Oratoire du Pralère,Voirons Sandstone,,,lina,129,52,bed,,,Voirons,
+Voirons crest,Pointe de Brantaz,Voirons Sandstone,,,lina,101,70,bed,,,Voirons,
+Voirons crest,Pralère,Voirons Sandstone,,,lina,103,44,bed,,,Voirons,
+Voirons crest,Pralère,Voirons Sandstone,,,lina,103,42,bed,,,Voirons,
+Voirons crest,Pralère,Voirons Sandstone,,,lina,108,44,bed,,,Voirons,
+Voirons crest,Pralère,Voirons Sandstone,,,lina,107,42,bed,,,Voirons,
+Voirons crest,Pralère,Voirons Sandstone,,,lina,146,60,bed,,,Voirons,Bas de la pointe de Pralère
+Voirons crest,Saut de la Pucelle,Voirons Sandstone,,,lina,102,38,bed,,,Voirons,
+Voirons crest,Saut de la Pucelle,Voirons Sandstone,,,lina,102,36,bed,,,Voirons,
+Voirons crest,Saut de la Pucelle,Voirons Sandstone,,,lina,98,38,bed,,,Voirons,
+Voirons crest,Saut de la Pucelle,Voirons Sandstone,,,lina,108,38,bed,,,Voirons,
+Voirons crest,Saut de la Pucelle,Voirons Sandstone,,,lina,101,42,bed,,,Voirons,
+Voirons crest,Saut de la Pucelle,Voirons Sandstone,,,lina,100,40,bed,,,Voirons,
+Voirons crest,Signal des Voirons,Voirons Sandstone,,,lina,117,47,bed,,,Voirons,
+Voirons crest,Signal des Voirons,Voirons Sandstone,,,lina,102,40,bed,,,Voirons,
+Voirons crest,Signal des Voirons,Voirons Sandstone,,,lina,105,38,bed,,,Voirons,
+Voirons crest,Signal des Voirons,Voirons Sandstone,,,lina,98,36,bed,,,Voirons,
+Voirons crest,Signal des Voirons,Voirons Sandstone,,,lina,106,38,bed,,,Voirons,
+Voirons crest,Signal des Voirons,Voirons Sandstone,,,lina,107,40,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,lina,102,40,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,lina,108,44,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,lina,110,30,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,lina,107,44,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,lina,103,44,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,lina,100,44,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,lina,102,42,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,lina,124,62,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,,lina,120,48,bed,,,Voirons,
+Voirons crest,,Voirons Sandstone,,2010-07-20,lina,158,60,bed,,,Voirons,Proximité de Roche aux Corbeaux
+Voirons crest,,Voirons Sandstone,,,lina,106,40,bed,,,Voirons,
+,,Voirons Sandstone,,,lina,85,40,bed,,,Voirons,
+,,Voirons Sandstone,,,lina,86,44,bed,,,Voirons,
+,,Voirons Sandstone,,,lina,78,46,bed,,,Voirons,
+,,Voirons Sandstone,,,lina,82,44,bed,,,Voirons,
+,,Voirons Sandstone,,,lina,77,42,bed,,,Voirons,
+,,Voirons Sandstone,,,lina,80,50,bed,,,Voirons,
+,,Voirons Sandstone,,,lina,76,58,bed,,,Voirons,
+,,Voirons Sandstone,,,lina,70,50,bed,,,Voirons,
+,,Voirons Sandstone,,,lina,94,40,bed,,,Voirons,
+,,,,,lina,60,32,bed,,,Voirons,322m wn amont PM aff 19 Coppo
+,,,,,lina,106,44,bed,,,Voirons,
+,,Boëge Marl,,,lina,332,89,fold,,,Voirons,plie stratotypeMS
+,,Boëge Marl,,,lina,116,20,fold,,,Voirons,plie stratotypeMS
+,,,,,lina,127,30,bed,,,Voirons,Chemin vers Lucinges
+,,,,,lina,113,42,bed,,,Voirons,Chemin vers Lucinges
+,,Voirons Sandstone,,,lina,101,42,bed,,,Voirons,Chapelle NDV
+,,Voirons Sandstone,,,lina,115,49,bed,,,Voirons,Chapelle NDV
+,,,,,lina,106,60,bed,,,Voirons,BP
+,,Voirons Sandstone,,,lina,100,22,bed,,,Voirons,début chemin des crêtes vers lucinges
+,,Voirons Sandstone,,,lina,102,20,bed,,,Voirons,Mcg
+,,Voirons Sandstone,,,lina,99,30,bed,,,Voirons,début chemin des crêtes vers lucinges
+,,Voirons Sandstone,,,lina,120,48,bed,,,Voirons,La joux
+,,Voirons Sandstone,,,lina,103,49,bed,,,Voirons,Contact GV/CV en bas de Pte Pralère
+Les Crêts,,Boëge Marl,,2018-07-16,,117,29,bed,,,Voirons,
+Les Crêts,,Boëge Marl,,2018-07-16,,72,32,bed,,,Voirons,
+Les Crêts,,Boëge Marl,,2018-07-16,,93,35,bed,,,Voirons,
+Bard,,Boëge Marl,,2018-07-20,,308,88,bed,,,Voirons,
+Bard,,Boëge Marl,,2018-07-20,,298,66,bed,,,Voirons,
+,,Bruant Sandstone,,2018-08-06,,268,26,bed,,,Voirons,

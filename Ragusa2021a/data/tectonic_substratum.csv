@@ -1,0 +1,60 @@
+############,,,,,,,,,,,
+# title: dip and azimut measurements of beds and faults in the tectonic slices beneath the Voirons Flysch,,,,,,,,,,,
+# author: Jérémy Ragusa,,,,,,,,,,,
+# date: 2018-05-09,,,,,,,,,,,
+# comments: please refer to the Log folder for stratigraphic logs,,,,,,,,,,,
+############,,,,,,,,,,,
+outcrop,tectonic_unit,formation,date,bed,azimut,dip,type,lat,lon,section,remarks
+Bellevue,Subalpine flysch,Bellevue Sandstone,2018-05-08,,131,55,bed,46.19859,6.32880,Voirons,
+Bellevue,Subalpine flysch,Bellevue Sandstone,2018-05-08,,130,41,bed,46.19859,6.32880,Voirons,
+Bellevue,Subalpine flysch,Bellevue Sandstone,2018-05-08,,136,58,bed,46.19859,6.32880,Voirons,
+Bellevue,Subalpine flysch,Bellevue Sandstone,2018-05-08,,136,56,bed,46.19859,6.32880,Voirons,
+Bellevue,Subalpine flysch,Bellevue Sandstone,2018-05-08,,134,48,bed,46.19859,6.32880,Voirons,
+Route de Bellevue,Subalpine molasse,Montauban Sandstone,2018-05-08,NA,63,38,bed,,,Voirons,gros bloc en amont
+Route de Bellevue,Subalpine molasse,Montauban Sandstone,2018-05-08,NA,78,33,bed,,,Voirons,petits bancs avant ruisseau
+Route de Bellevue,Subalpine molasse,Montauban Sandstone,2018-05-08,NA,75,28,bed,,,Voirons,ruisseau
+Route de Bellevue,Subalpine molasse,Montauban Sandstone,2018-05-08,NA,84,23,bed,,,Voirons,bloc au 3ème poteau depuis le haut
+Route de Bellevue,Subalpine molasse,Montauban Sandstone,2018-05-08,NA,110,76,bed,,,Voirons,juste en aval du gros bloc
+Route de Bellevue,Subalpine molasse,Montauban Sandstone,2018-05-08,NA,312,84,bed,,,Voirons,juste en aval du gros bloc
+Route de Bellevue,Subalpine molasse,Montauban Sandstone,2018-05-08,NA,83,37,bed,,,Voirons,après le cube en béton
+Route de Bellevue,Subalpine molasse,Montauban Sandstone,2018-05-08,NA,325,65,joint,,,Voirons,après le cube en béton
+Route de Bellevue,Subalpine molasse,Montauban Sandstone,2018-05-08,NA,93,29,bed,,,Voirons,après le cube en béton
+Route de Bellevue,Subalpine molasse,Montauban Sandstone,2018-05-08,NA,304,84,joint,,,Voirons,après le cube en béton
+Route de Bellevue,Subalpine molasse,Montauban Sandstone,2018-05-08,NA,84,32,bed,,,Voirons,après le cube en béton
+Les Eaux,Préalpes médianes nappe,La Vudalla Fm.,2018-07-16,NA,114,48,bed,46.172194,6.410356,Voirons,Calcaires Blancs
+Les Eaux,Préalpes médianes nappe,La Vudalla Fm.,2018-07-16,NA,292,51,thrust,46.172194,6.410356,Voirons,Calcaires Blancs – a confirmer !
+Les Eaux,Préalpes médianes nappe,La Vudalla Fm.,2018-07-16,NA,153,55,bed,46.172036,6.410353,Voirons,Calcaires Blancs – séquence fauchée
+Les Eaux,Préalpes médianes nappe,La Vudalla Fm.,2018-07-16,NA,110,52,bed,46.172036,6.410353,Voirons,Calcaires Blancs
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,1,10,bed,46.21933,6.32368,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,122,21,bed,46.21943,6.32393,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,101,37,bed,46.21994,6.32558,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,105,32,bed,46.21883,6.32405,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,91,43,bed,46.21712,6.32383,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,81,27,bed,46.21746,6.32415,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,114,25,bed,46.21762,6.32420,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,74,30,bed,46.21762,6.32436,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,75,37,bed,46.21798,6.32460,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,79,39,bed,46.21800,6.32469,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,75,39,bed,46.21800,6.32469,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,78,28,bed,46.21883,6.32534,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,90,28,bed,46.21883,6.32534,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,83,16,bed,46.21931,6.32586,Voirons,
+Route de Montauban,Subalpine molasse,Montauban Sandstone,2018-05-26,,87,19,bed,46.21951,6.32600,Voirons,
+Les Indivis,Préalpes médianes nappe,Chauderon Fm.,2019-04-16,NA,107,43,bed,46.30920,6.49591,Allinges,Lias moyen siliceux
+Les Indivis,Préalpes médianes nappe,Chauderon Fm.,2019-04-16,NA,104,44,bed,46.30920,6.49591,Allinges,Lias moyen siliceux
+Les Indivis,Préalpes médianes nappe,Chauderon Fm.,2019-04-16,NA,82,43,bed,46.30931,6.49750,Allinges,Lias moyen siliceux
+Les Indivis,Préalpes médianes nappe,Chauderon Fm.,2019-04-16,NA,84,45,bed,46.30957,6.49705,Allinges,Lias moyen siliceux
+Les Indivis,Préalpes médianes nappe,Chauderon Fm.,2019-04-16,NA,85,38,bed,46.30941,6.49666,Allinges,Lias moyen siliceux
+Les Indivis,Préalpes médianes nappe,Chauderon Fm.,2019-04-16,NA,98,50,bed,46.30967,6.49564,Allinges,Lias moyen siliceux
+Col de Cou,Préalpes médianes nappe,Chauderon Fm.,2018-07-23,NA,85,61,bed,46.25587,6.45603,Voirons,Calcaires échinodermiques
+Col de Cou,Préalpes médianes nappe,Chauderon Fm.,2018-07-23,NA,65,46,bed,46.25587,6.45603,Voirons,Calcaires échinodermiques
+Col de Cou,Préalpes médianes nappe,Chauderon Fm.,2018-07-23,NA,105,44,bed,46.26035,6.45594,Voirons,Calcaires échinodermiques
+Col de Cou,Préalpes médianes nappe,Chauderon Fm.,2018-07-23,NA,78,41,bed,46.25902,6.45573,Voirons,Calcaires échinodermiques
+Col de Cou,Préalpes médianes nappe,Chauderon Fm.,2018-07-23,NA,87,31,bed,46.25159,6.45320,Voirons,Calcaires échinodermiques
+Col de Cou,Préalpes médianes nappe,Chauderon Fm.,2018-07-23,NA,85,38,bed,46.25130,6.45348,Voirons,Calcaires échinodermiques
+Chemin rural du Pré,Préalpes médianes nappe,Chauderon Fm.,2018-08-06,NA,87,49,bed,46.24878,6.45542,Voirons,Calcaires échinodermiques
+Pamphiot,Préalpes médianes nappe,Chauderon Fm.,2018-04-17,NA,98,52,bed,46.31879,6.50425,Allinges,Lias moyen siliceux
+Pamphiot,Préalpes médianes nappe,Chauderon Fm.,2018-04-17,NA,120,34,bed,46.31879,6.50425,Allinges,Lias moyen siliceux
+Pamphiot,Préalpes médianes nappe,Chauderon Fm.,2018-04-17,NA,114,34,bed,46.31879,6.50425,Allinges,Lias moyen siliceux
+Pamphiot,Préalpes médianes nappe,Chauderon Fm.,2018-04-17,NA,108,44,bed,46.31791,6.50427,Allinges,Lias moyen siliceux
+Pamphiot,Préalpes médianes nappe,Chauderon Fm.,2018-04-17,NA,93,45,bed,46.31791,6.50427,Allinges,Lias moyen siliceux
